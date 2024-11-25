@@ -32,6 +32,9 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 
 | Date | Title/Link | Length | Comments |
 |-|-|-|-|
+|November 9th, 2024|[CUSF Presentation at OP_NEXT 2024](https://www.youtube.com/watch?v=ImUCulfr1cE)|26m,57s|Paul gives a rousing presentation on Core Untouched Soft Fork at the first OP_NEXT in Boston.|
+|October 24th, 2024|[Fiat, Markets and The Titanic with Paul Sztorc](https://www.youtube.com/watch?v=yIWTeSvYVvk&t=445s)|56m,55s|Paul joins the Citizen Web3 Podcast to discuss human progress, economic competitiveness, and Drivechain.|
+|October 9th, 2024|[Inheriting Bitcoin Security with Merged Mining w/ Sergio Lerner](https://www.youtube.com/watch?v=AZ50Dbs9-eM)|31m,09s|Paul and Sergio Lerner of Rootstock discuss the merits of Merged Mining at BTC Amsterdam 2024, hosted by Janusz G.|
 |September 3, 2024|[The Vault](https://www.youtube.com/watch?v=B3R60ye_dhQ)|1h,25m,38s|Paul appears on The Vault morning show hosted by Emblem to discuss Drivechain.|
 |August 19th, 2024|[Litecoin Underground](https://youtu.be/2UHGhawpvBg?feature=shared)|1h,15m,36s|A 3 part interview in which Paul discusses BIP300 and activation on Litecoin.|
 |August 9th, 2024|[Steady Lads #55](https://www.youtube.com/watch?v=x_WqCIHdj4A)|1h,21m,13s|Paul ventures into the crypto world for a discussion on Drivechains and memecoins.|
@@ -41,13 +44,12 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 |July 25th, 2024|[Getting to 100% Bitcoin Dominance and Collecting Every Transaction Fee Anduro Panel](https://www.youtube.com/watch?v=5JObBLtIyig)|25m,45s|Paul gives a broad overview of BIP300 during a panel hosted by Anduro.|
 |July 24th, 2024|[Litecoin Summit 2024](https://youtu.be/2UHGhawpvBg?feature=shared)|28m,17s|Paul gives a presentation on Drivechain to an audience of Litecoiners.|
 |July 24th, 2024|[Litecoin Summit 2024](https://www.youtube.com/live/Sn_Hl2Q5cIw?feature=shared&t=12653)|9h,29m,35s|Paul participates in a panel about the failings of Lightning Network with Vlad Costea from BTCTKVR.|
-|May 10th, 2024|[Bitcoin Prediction Markets](https://www.youtube.com/watch?v=VHT3pJEKIck)|27m,31s|Paul gives a presentation on prediction markets at Bitcoin Asia 2024.|
 |May 10th, 2024|[Mining Incentives & Network Security](https://www.youtube.com/watch?v=kznSgWa7EDQ)|29m,07s|Paul joins a panel a mining panel at Bitcoin Asia 2024.|
 |January 25th, 2024|[Paul Sztorc of LayerTwo Labs \| Drivechains, Scaling Bitcoin without Compromise](https://www.youtube.com/watch?v=H5_EbRZ62gc)|1h,28m,40s|Paul goes on the Hashing It Out podcast to discuss Drivechain.|
 |January 18th, 2024|[Bitcoin Takeover S15 E16: Paul Sztorc Talks Bitcoin Scaling, But Can't Say "Drivechains"](https://www.youtube.com/watch?v=VxqY-CwH-Ug)|3h,31m,50s|Paul and Vlad Costea talk Drivechain again, only this time, Paul can't say Drivechain or he has to take a shot.|
 |January 18th, 2024|[Bitcoin Drive Chain creator Paul Sztorc on BTC’s stagnation & Monero’s progress / EPI 297](https://www.youtube.com/watch?v=fX6mfZgopEA)|1h,30m,58s|Douglas Turman of Monero Talk interviews Paul about Drivechain.|
 |January 2nd, 2024|[The Stewart Mackenzie Indaba #39 Paul Sztorc](https://www.youtube.com/watch?v=hKh7OS8nrHc)|2h,17m,19s|A conclusion to the debate between Paul Sztorc and Peter Todd on BIP300/1.|
-|December 15th, 2023|[The Great Drivechain Debate with Paul Sztorc and Peter Todd (SLP533)](https://www.youtube.com/watch?v=Omx2tcHGKd8)|1h,39m,23s|Paul debates Peter Todd for the final time on Stephan Livera podcast.|
+|December 15th, 202|[The Great Drivechain Debate with Paul Sztorc and Peter Todd (SLP533)](https://www.youtube.com/watch?v=Omx2tcHGKd8)|1h,39m,23s|Paul debates Peter Todd for the final time on Stephan Livera podcast.|
 |November 79th, 2023|[Bitcoin's Future \| Paul Sztorc](https://www.youtube.com/watch?v=pwsiDwungH4)|16m,08s|Paul gives a presentation at North American Blockchain Summit 2023 in Texas.|
 |November 5th, 2023|[The Case for Bitcoin Drivechains with Paul Sztorc](https://www.youtube.com/watch?v=2FAFZNUB-u4)|1h,13m,45s|Paul appears on Talks With Sato hosted by Independent Academy to discuss Drivechain.|
 |October 25th, 2023|[Bitcoin Lightning Network is BROKEN! w/ Paul Sztorc 🔥BTC Layer-Two's Ranked](https://www.youtube.com/watch?v=TNHyYTwjOug)|26m,57s|Paul chats with Paul Barron about Antoine Riard's revelations of the Lightning Network's dysfunction.|
