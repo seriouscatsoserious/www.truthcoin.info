@@ -34,6 +34,7 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 |-|-|-|-|
 |November 9th, 2024|[CUSF Presentation at OP_NEXT 2024](https://www.youtube.com/watch?v=ImUCulfr1cE)|26m,57s|Paul gives a rousing presentation on Core Untouched Soft Fork at the first OP_NEXT in Boston.|
 |October 24th, 2024|[Fiat, Markets and The Titanic with Paul Sztorc](https://www.youtube.com/watch?v=yIWTeSvYVvk&t=445s)|56m,55s|Paul joins the Citizen Web3 Podcast to discuss human progress, economic competitiveness, and Drivechain.|
+|October 23rd, 2024|[TABConf 2024 MEVil Debate Panel](https://www.youtube.com/watch?v=X-KJdhpwewA)|1h,2m,2s|Paul joins an open panel debate about MEV hosted by Matt Corallo at Tabconf 2024|
 |October 9th, 2024|[Inheriting Bitcoin Security with Merged Mining w/ Sergio Lerner](https://www.youtube.com/watch?v=AZ50Dbs9-eM)|31m,09s|Paul and Sergio Lerner of Rootstock discuss the merits of Merged Mining at BTC Amsterdam 2024, hosted by Janusz G.|
 |September 3, 2024|[The Vault](https://www.youtube.com/watch?v=B3R60ye_dhQ)|1h,25m,38s|Paul appears on The Vault morning show hosted by Emblem to discuss Drivechain.|
 |August 19th, 2024|[Litecoin Underground](https://youtu.be/2UHGhawpvBg?feature=shared)|1h,15m,36s|A 3 part interview in which Paul discusses BIP300 and activation on Litecoin.|
