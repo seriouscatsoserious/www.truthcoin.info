@@ -160,7 +160,7 @@ Honestly, the labels are terrible, especially when they ask me to make an assess
 
 ### APO
 
-There's nothing wrong with APO -- as an opcode. So we should activate it. And we should have activated it many years ago.
+There's nothing wrong with APO -- as an opcode. [Actually APO is not an opcode -- but it is reversible in the way I describe in Part 1.] So we should activate it. And we should have activated it many years ago.
 
 The reason I gave it "Weak", is because Bitcoin is being vampirically drained of life, by the accursed Lightning Network. APO (sort of) gives hope to Lightning, when instead it would be better for us all, if that hope were extinguished. (That is also why I snuck a "Weak" into LNhance.)
 
