@@ -20,7 +20,7 @@ title: Random Files
 * 09.11.2018 - [Unplanned Interactions](/files/unplanned-interactions/)
 * 06.21.2019 - ["Rights" -- Appendix to 'Consent of the Governed'](/files/cotg-appendix/)
 * 12.11.2019 - [Breaking CashFusion With Pen & Paper (But Only Sometimes)](/files/cash-fusion-rightmost-digit/)
-
+* 12.12.2024 - [Covenants Support Rationale](/files/covenants-rationale/)
 
 
 <!--  
