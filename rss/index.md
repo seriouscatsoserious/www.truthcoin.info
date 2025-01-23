@@ -56,6 +56,7 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 |December 15th, 202|[The Great Drivechain Debate with Paul Sztorc and Peter Todd (SLP533)](https://www.youtube.com/watch?v=Omx2tcHGKd8)|1h,39m,23s|Paul debates Peter Todd for the final time on Stephan Livera podcast.|
 |November 79th, 2023|[Bitcoin's Future \| Paul Sztorc](https://www.youtube.com/watch?v=pwsiDwungH4)|16m,08s|Paul gives a presentation at North American Blockchain Summit 2023 in Texas.|
 |November 5th, 2023|[The Case for Bitcoin Drivechains with Paul Sztorc](https://www.youtube.com/watch?v=2FAFZNUB-u4)|1h,13m,45s|Paul appears on Talks With Sato hosted by Independent Academy to discuss Drivechain.|
+|October 30th, 2023|[DriveChains Debate at Bitcoin Amsterdam](https://www.youtube.com/watch?v=6nXuxHnGGG4)|36m,22s|Giacomo Zucco and Paul Sztorc hold a debate about DriveChains on Bitcoin.|
 |October 25th, 2023|[Bitcoin Lightning Network is BROKEN! w/ Paul Sztorc 🔥BTC Layer-Two's Ranked](https://www.youtube.com/watch?v=TNHyYTwjOug)|26m,57s|Paul chats with Paul Barron about Antoine Riard's revelations of the Lightning Network's dysfunction.|
 |October 19th, 2023|[Bitcoin Amsterdam Drivechain Debate with Peter Todd](https://www.youtube.com/watch?v=zUHRWrlw7pY)|40m,42s|Peter Todd, Paul, and David Bailey have a deep conversation about BIP300 and how it effects Bitcoin.|
 |October 18th, 2023|[The Bitcoin Mining Case For Drivechains W/ Paul Sztorc and James McAvity](https://www.youtube.com/watch?v=s5UX1HMgn9M)|1h,15m,30s|Paul chats with James McAvity of Cormint on Will Foxley's Blockspace podcast about Drivechains and Bitcoin mining.|
@@ -64,6 +65,7 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 |September 8, 2023|[Bitcoin drivechain debate between Paul Sztorc and Peter Todd at TABConf 2023](https://www.youtube.com/watch?v=KDZi-vtD0qg)|59m,22s|Paul and Peter Todd debate Drivechain on stage at TABConf 2023|
 |August 29, 2023|[The Bitcoin Takeover podcast S14 E10: Paul Sztorc on Drivechains & Attacking Bitcoin](https://www.youtube.com/live/RdyoOO_i7lk)|2h,40m,38s|Paul discusses Drivechain and Bitcoin with Vlad Costea, host of the Bitcoin Takeover podcast|
 |August 16, 2023|[Digital Cash Network show: Saving Bitcoin with Drivechains: A Deep Dive with Paul Sztorc](https://youtu.be/f8FKEPthS7s)|1h,39m,46s|Paul is interviewed by the host of the Digital Cash Network show.|
+|August 10, 2023|[The Fate of BIP-300: What Are Drivechains?](https://www.youtube.com/watch?v=sQ2fSd53oao)|27m,22s|Paul Sztorc and Edan Yago discuss DriveChains and the BIP process in a fireside chat hosted by Crypto Megan.|
 |July 21, 2023|[The Stewart Mackenzie Indaba #37 Paul Sztorc + Fiatjaf](https://youtu.be/DimbBOF3h8A)|2h,34m,24s|Paul and Fiatjaf (creator of Nostr), and Stewart Mackenzie discuss Drivechain, Bitcoin, and related subjects.|
 |May 23, 2023|[Demolishing Dogmas: The Rebels Reshaping the Bitcoin Battlefield and Crypto's Radical Architects Neel Somani, Leonard Dorlochter, and Paul Sztorc](https://www.untoldstories.com/demolishing-dogmas-the-rebels-reshaping-the-bitcoin-battlefield-and-cryptos-radical-architects-neel-somani-leonard-dorlochter-and-paul-sztorc/)|1h,14m,0s|Paul Sztorc discusses exciting layer-2 solutions with Charlie Shrem, Neel Somani, and Leonard Dorlochter.|
 |May 20, 2023|[Bitcoin Conference: Transaction Censorship panel with Udi Wertheimer, Paul Sztorc, and others](https://youtu.be/Jitb_CAm3ME)|45m,19s|Craig Deutsch of Bitcoin Magazine hosts a panel discussing Bitcoin Transaction Censorship starring Nick Hansen of Luxor Technologies, Udi Wertheimer of Taproot Wizards, and Paul Sztorc of LayerTwo Labs at Bitcoin 2023 Mining Stage.|
@@ -163,5 +165,3 @@ I wrote an all-important "Part 2" to Anarchapulco-2019, but because of Covid the
 ### Did I miss something?
 
 If I didn't add something, you can find me on Twitter/Telegram. Or better yet, [pull request into this webpage](https://github.com/truthcoin/www.truthcoin.info/blob/gh-pages/rss/index.md) (and then find me).
-
-
