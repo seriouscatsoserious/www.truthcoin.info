@@ -499,4 +499,4 @@ See [Lopp's presentation on this topic](https://blog.lopp.net/death-of-decentral
 
 The Bitcoin blockchain continues to add 1008 new blocks, per week -- roughly 130 GB of data each year. This data can never be deleted, and must be stored forever -- and *served* to other nodes, forever. (Hence the data availability problem and the blocksize war -- and [the](https://www.youtube.com/watch?v=Y6kibPzbrIc) [perennial](https://www.youtube.com/watch?v=CqNEQS80-h4) [debates](https://jrakibi.medium.com/major-improvement-of-initial-block-download-ibd-fcc2a5921e3f) over how to handle the problem.) A perfect example of shifting sands that produce Code Rot.
 
-
+----
