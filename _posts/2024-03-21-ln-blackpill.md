@@ -60,6 +60,7 @@ Here is what I'm seeing!
 * June 2022, "Seth", ["Yeah, one of the many privacy paradoxes in Lightning... \\ Unannounced channels remove any plausible deniability for payments going through them (and can still be probed and discovered by malicious actors anyways)."](https://twitter.com/sethforprivacy/status/1532817167703588864?s=20)
 * May 2023, Junseth, ["We know the problems with Lightning...they are voluminous"](https://youtu.be/Mk_dBnvaIqc?si=DXhuqW8pT3blI3AK&t=1376)
 * May 2024, Udi Wertheimer, ["lightning sucks ... our company built a lightning service from scratch and onboarded almost 10,000 paying users ... and I'm telling you it sucks"](https://twitter.com/udiWertheimer/status/1785733163446063569)
+* Dec 2024, TFTC / Marty Bent / Alex Bergeron, ["Lightning Network Is Broken and How Ark Can Save It"]https://www.tftc.io/tftc-how-ark-saves-bitcoin-alex-b/)
 
 
 ### From Me
@@ -71,7 +72,7 @@ Here is what I'm seeing!
 * And this: https://x.com/Truthcoin/status/1719388665107947959?s=20
 
 
-### Other Compilations
+### Other Long Lists of LN Complaints
 
 * [David Shares](https://github.com/davidshares/Lightning-Network/blob/main/README.md) -- compilation of negative LN links
 * ["Lightning's Best Moments](https://t.me/lightningfantasy) -- Telegram Compliation
