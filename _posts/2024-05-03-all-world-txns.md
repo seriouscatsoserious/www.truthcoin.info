@@ -80,13 +80,13 @@ In other words, every L2 will be "run by the miners". This has the inconvenient 
 
 ### Appendix 1 -- Blockspace Napkin Math
 
-I predict the world will have 13 L2 payment-sidechains, distributed geographically: East NA, West NA, Central America (+Caribbean), South America, West &North Europe, East Europe + Central Asia, Middle East, China, India, Japan, Oceania, Africa, Rest of World / Internet Native.
+I predict the world will have 13 L2 payment-sidechains, [distributed geographically](https://www.truthcoin.info/blog/thunder/#3-how-to-achieve-that-level-of-txn-throughput): East NA, West NA, Central America (+Caribbean), South America, West &North Europe, East Europe + Central Asia, Middle East, China, India, Japan, Oceania, Africa, Rest of World / Internet Native.
 
 For simplicity, we divide the world's transactions evenly into thirteen. And we assume that Bitcoin rapidly takes over in approximately 2030. This gives us the following blocksizes over time:
 
 ![image](/images/blockspace-napkin-math.png)
 
-These 13 chains would be "held together", by a single L1 chain with a forever-small 300 kb blocksize. This completes the ["Sidechain Scaling" model I presented in 2016 at Scaling III](https://www.youtube.com/watch?v=Gzg_u9gHc5Q&t=6575s).
+These 13 chains would be "held together", by a single L1 chain with a forever-small 300 kb blocksize. This completes the ["Sidechain Scaling" model I presented in 2016 at Scaling III](https://www.youtube.com/watch?v=Gzg_u9gHc5Q&t=6575s). Since each L2 starts with a 12.92 MB blocksize, I'll call this plan "13-13".
 
 
 ### Appendix 2 -- Voskuil Parallelism
