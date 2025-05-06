@@ -32,6 +32,7 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 
 | Date | Title/Link | Length | Comments |
 |-|-|-|-|
+|April  29th, 2025|[Bitcoin L1 vs L2 Debate](https://www.youtube.com/live/n29r-eWA6Zo)|2h,23m,15s|Paul debates with Kurt Wuckert Jr on CoinGeek podcast.|
 |December 7th, 2024|[The Litecoin Forecast](https://www.youtube.com/watch?v=c_fiK-00V1M&t=3s)|3h,51m,14s|Paul appears on a Litecoin podcast to give a wide overview on his ideas.|
 |December 6th, 2024|[Bitcoin Takeover S15 E68: Paul Sztorc on CUSF](https://www.youtube.com/watch?v=p2zXzG9-abc&t=125s)|2h,10m,45s|Paul appears on BTCTKVR again, this time to discuss Core Untouched Soft Forks.|
 |November 9th, 2024|[CUSF Presentation at OP_NEXT 2024](https://www.youtube.com/watch?v=ImUCulfr1cE)|26m,57s|Paul gives a rousing presentation on Core Untouched Soft Fork at the first OP_NEXT in Boston.|
