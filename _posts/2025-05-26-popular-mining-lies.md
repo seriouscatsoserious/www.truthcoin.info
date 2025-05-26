@@ -73,7 +73,7 @@ These questions takes us to *the blocksize war* -- itself a constellation of mis
 
 ## Part 2 -- The Blocksize War
 
-Many common believes about the blocksize war are wrong. 
+Many common beliefs about the blocksize war are wrong. 
 
 The truth is: the blocksize war proved how *reliable* and *well-behaved* the miners are -- (not the reverse as is conventional wisdom).
 
