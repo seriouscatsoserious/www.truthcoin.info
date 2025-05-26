@@ -1,5 +1,5 @@
 ---
-title: Popular Mining Lies, Delusional Mining Paranoia
+title: Popular Mining Lies / The Mining Grift
 show_author: true
 comments: true
 date: 2025-05-26 04:00:00
@@ -199,7 +199,7 @@ First, I wrote ["Against the Hard Fork"](https://www.truthcoin.info/blog/against
 
 Second, various techniques were used to measure support for Large Blocks. One was ["fork futures"](https://www.truthcoin.info/blog/fork-futures/)...
 
-![images](/images/fork-futures-2017.png)
+![images](/images/fork-futures-2017.jpg)
 
 ...(tweet [here](https://x.com/Truthcoin/status/931348354545614848)) which put support for SegWit2x at about 11%. When the prices materialized (upon the launch of BCH), these were indeed the prices! (Although, admittedly, the price was pretty volatile overall.) But, it did hover around 11% on average, fo
 
