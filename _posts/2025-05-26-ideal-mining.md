@@ -2,7 +2,7 @@
 title: Ideal Mining (EDAC Pools)
 show_author: true
 comments: true
-date: 2025-05-26 08:00:00
+date: 2025-05-26 02:00:00
 ---
 
 

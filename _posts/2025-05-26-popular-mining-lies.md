@@ -2,7 +2,7 @@
 title: Popular Mining Lies / The Mining Grift
 show_author: true
 comments: true
-date: 2025-05-26 04:00:00
+date: 2025-05-26 01:00:00
 ---
 
 
