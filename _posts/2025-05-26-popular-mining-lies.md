@@ -201,7 +201,7 @@ Second, various techniques were used to measure support for Large Blocks. One wa
 
 ![images](/images/fork-futures-2017.jpg)
 
-...(tweet [here](https://x.com/Truthcoin/status/931348354545614848)) which put support for SegWit2x at about 11%. When the prices materialized (upon the launch of BCH), these were indeed the prices! (Although, admittedly, the price was pretty volatile overall.) But, it did hover around 11% on average, fo
+...(tweet [here](https://x.com/Truthcoin/status/931348354545614848)) which put support for SegWit2x at about 11%. When the prices materialized (upon the launch of BCH), these were indeed the prices! (Although, admittedly, the price was pretty volatile overall.) But, it did hover around 11% on average, for the period of time following Roger Ver's video endorsing BCH (and abandoning SegWit2x).
 
 Why was support only 11%? Well, at the time, *most people* didn't want to introduce the chaos of hard forks, just for a 2x benefit. Most people were optimistic about lightning, and wanted to give it a try -- let developers cook some stuff up. Necessity was the mother of invention.
 
@@ -223,7 +223,7 @@ Furthermore, for anything with network effects, there is really only room for *t
 
 #### iv. Conclusion
 
-So -- the largeblockers were sunk, by their many mistakes, before the "war" could really beging. They basically destroyed their own side, immediately.
+So -- the largeblockers were sunk, by their many mistakes, before the "war" could really begin. They basically destroyed their own side, immediately.
 
 And so -- the story of "miners attacking Bitcoin" during the blocksize war, is false. Even the largeblockers themselves, never really got their attack going. Some mining pools were frustrated, and offered up their opinion, at various times -- this hardly counts as an "attack". No transactions were censored, no blocks were reorged -- nothing bad happened, at all.
 

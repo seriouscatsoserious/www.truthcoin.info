@@ -23,7 +23,7 @@ These are pools which are:
 
 ### Motivation
 
-In [the previous post](https://www.truthcoin.info/blog/popular-mining-lies/), I detailed how "Mining Centralization" is a **fake** topic -- and it is. Tehere is no problem [with mining], and (therefore) no solution.
+In [the previous post](https://www.truthcoin.info/blog/popular-mining-lies/), I detailed how "Mining Centralization" is a **fake** topic -- and it is. There is no problem [with mining], and (therefore) no solution.
 
 Nonethless, we must purge Bitcoin of the **grifters**. People selling a fix to what isn't broken. And the best way to do that, is to just *Elaborate the Ideal*.
 
@@ -47,7 +47,7 @@ Thus -- by definition -- if you have (1/4320)-th hashrate, you will find 1 block
 
 However, you have a **variance problem**. Hitting a block is statistically random. Sometimes, you will hit many blocks quickly -- other times you will go 130 or 150 days, without hitting a block. You can use [this simple calculator](/images/simple-mining-simulator.xlsx)) to see for yourself -- if you operate for 2 years total, there is *usually* at least one 90-day "bad luck" streak -- and quite common to have a 120-day streak [or even 150 days].
 
-And -- this unlucky 120-day streak, could be during your *first* 120 days. You could hit 4 months of bad luck off the bad. That is unacceptable for a new, small miner. Imagine -- they do everything right, and still get ruined by bad luck! Many "profitable miners" (on average), will thus be scared away. They will be defeated by their small scale.
+And -- this unlucky 120-day streak, could be during your *first* 120 days. You could hit 4 months of bad luck off the bat. That is unacceptable for a new, small miner. Imagine -- they do everything right, and still get ruined by bad luck! Many "profitable miners" (on average), will thus be scared away. They will be defeated by their small scale.
 
 Furthermore, this risk is hard to insure. An insurance company can easily be defrauded -- since it is inherently based on luck. The hashers can secretly mine somewhere else (or solo mine), then claim to have bad luck -- submitting a claim to the insurance company and collecting. There is no easy way for the insurance company to detect this fraud -- the managerial controls it would theoretically require, are so strong that they would imply de-facto vertical integration (ie -- not insurance). Plus, vertical integration would mean consolidation -- ie, that the small miners are now becoming "large". (That's what we didn't want in the first place.)
 
@@ -104,7 +104,7 @@ But Drivechain is not such an L2. Drivechain allows new users to onboard, direct
 
 If instead, they want to "drop" from L2 to L1, then they can do this -- provided there are L1 bytes availible.
 
-(That is yet another big misunderstanding. Every L2, has it's exit limited by L1. Contrary to popular belief, it impossible for *any* L2 to give 8 billion users the ability to "unilateral exit" the L2. It has nothing to do with the L2s themselves, instead it is because 8 billion *new* UTXOs [ie, new users] do NOT fit on L1 -- unless their exit is "spread out", over a period of decades[^1]. So, *that itself* is a nonsensical criterion. It is nonsense re: L2s, and re: "mining centralization" and everything else. It is yet another example of people failing to do arithmetic, and failling to take their own ideas seriously.)
+(That is yet another big misunderstanding. Every L2, has it's exit limited by L1. Contrary to popular belief, it is impossible for *any* L2 to give 8 billion users the ability to "unilateral exit" the L2. It has nothing to do with the L2s themselves, instead it is because 8 billion *new* UTXOs [ie, new users] do NOT fit on L1 -- unless their exit is "spread out", over a period of decades[^1]. So, *that itself* is a nonsensical criterion. It is nonsense re: L2s, and re: "mining centralization" and everything else. It is yet another example of people failing to do arithmetic, and failling to take their own ideas seriously.)
 
 [^1]: The math is the same. 8 billion people, needing perhaps 300 bytes of an effective-sized 2.25 MB block -- so, 1.06 million blocks are required. At 4320 blocks per month, that comes to 247 months total (20 years).
 
@@ -189,7 +189,7 @@ Thus, the question: "how can we Bitcoiners, best improve Bitcoin mining [and bes
 As I've explained, this would involve:
 
 * All pools use PPS.
-* All pool use a one-dimensional fee.
+* All pools use a one-dimensional fee.
 * Drivechain activates, and is used for L2 payouts (from pools to hashers).
 
 But we could improve it further...
