@@ -140,7 +140,9 @@ PPS is "pay per share", where the pool pays its hasher, for each share they hit.
 
 PPS shifts *multiple types of risk* to the pool operator. For example, imagine a pool is paying $20 per share, but then the price of Bitcoin crashes -99% -- but the pool-operator is asleep. They keep paying $20 per share. Miners would switch to this pool, draining the pool's banking account (since the pool is overpaying for BTC, now worth 99% less than it was yesterday). A second example: imagine the pool-operator anticipates that today's BTC transaction-fee revenues will be $5000 total. He sets a high PPS rate, to attract hashers. But, actually, the blocks mined today only total $2000 in txn-fee revenue. The pool-operator eats the loss. Finally, the pool-operator may expect to hit 20 blocks today -- they set a high PPS rate. But, they have bad luck, the whole pool only hits 14 blocks. It doesn't matter -- the pool-operator still has to pay everyone out, as promised.
 
-The rival payout method (PPLNS, and its variants) works the opposite way. It [1] waits for the pool to hit a real Bitcoin block, and then [2] distributes the reward of that block proportionally, to all miners, based on who found more shares. It used to be called "proportional" (for that reason) and it has since split into many variants of its own. But the key points are [1] you are tied to the pool's fate -- if they are unlucky (and never hit a block), then you never get paid; [2] you don't get paid, *until* the pool hits a block (thus, you bear the "exchange rate fluctuation" risk, etc).
+The rival payout method (PPLNS, and its variants) works the opposite way. It [1] waits for the pool to hit a real Bitcoin block, and then [2] distributes the reward of that block proportionally, to all miners, based on who found more shares. It used to be called "proportional" (for that reason) and it has since split into many variants of its own. But the key points are [1] you are tied to the pool's fate -- if they are unlucky (and never hit a block), then you never get paid; [2] you don't get paid, *until* the pool hits a block (thus, you bear the "exchange rate fluctuation" risk, etc).[^2]
+
+[^2]: You also suffer if your pool-mates utilize bad templates. OCEAN, for example, allows clients to choose "their own template". (This is to "limit spam", supposedly.) Imagine that Alice and Bob both mine at OCEAN -- Alice, however, prefers to mine *empty blocks*. When Alice hits a block, the entire pool -- Bob included -- will collect less money.
 
 Some payouts distinguish between "the block subsidy" and "the transaction fees" -- to me this makes no difference. FPPS is equal to PPS, for my purposes. (In the future, there will be only fees, and zero block subsidy.)
 
@@ -243,3 +245,39 @@ Thus, we have achieved the properties I laid out at the beginning of the article
 This is a mining environment where (basically) no mistakes are made. And, if any mistakes are made, then the appropriate people suffer -- immediately -- and new competitors automatically take advantage of their mistakes (and replace them).
 
 ---
+
+
+### Appendix (Added 6/6/2025) -- Capital Requirements for A New Pool
+
+How much money does it take, to start a new pool from scratch?
+
+After all, we want it to be easy to start a new pool. Yet -- under PPS, pools must start handing out $$ immediately, to their new hashers. So they need cash upfront. How much is needed?
+
+Let's assume:
+
+* There is currently one pool, "MonoPool", with 100% hashrate -- you want to start a new pool and capture that 100% for yourself.
+* MonoPool charges 1% (of revenue).
+* Bitcoin txn fee revenue (onchain + merged mined), is [640 B USD per year](https://www.truthcoin.info/blog/all-world-txns/) -- so, MonoPool collects 6.4 B $/year.
+* MonoPool's other costs (employees, serves, domain name, software) -- are low. Less than $1 million per year.
+* Therefore, MonoPool's *operating profit* is also 6.4 B $/year.
+* Viability (as a pool), requires 30 days of working capital -- ie [640/12] = $530 million USD, total.
+
+530 million USD?! Isn't that too much?? No one will ever be able to start a new pool, at those magnitudes!!
+
+Well, actually, there are a few problems with our "toy" model.
+
+First, our high number is driven *completely* by the success of Bitcoin. Successful Bitcoin = more txn fees. It is hard to preemptively amass "30 days worth of txn fees", if that number is high. But if instead, Bitcoin was not used by anyone -- and paid only $200 per month in txn fees, total. Then it would be easy to start a new pool -- it would be easy to front the $200 needed, to make sure we could pay miners for 30 days, even if we are unlucky.
+
+Second, we ignored the *upside*. Admittedly, a single, one-time, upfront cash requirement, of $530 M, *is* a lot... if you get nothing in return. But, in the toy example above, we are getting *6.4 billion dollars per year, forever*. In fact, (in the toy model above), the setup is *always* of the form: "you supply 1 month of cash, upfront, and in return, you get *that amount* of cash, every month, in perpetuity". It is like planting a $20 tree, which grows a new $20 bill every month (including the first month). Since there are 12 months in a year, the IRR (annual) of this project is north of 1000%. So, actually: the bigger the better. People will be *lining up* to throw money into a project like this.
+
+Of course, competition will bring *down* that 1% fee -- to something lower. It violates the economic "laws of physics", for a pool to make 6.4 billion USD in profit per year -- that's too high. Surely, a new pool would undercut that. This "Pool_2" would still front $530 M (to pay 30 days worth of expenses), but they would charge (for example) half as much (0.5%), and collect (after usurping the #1 pool) 3.2 billion USD per year, instead of 6.4. This process would repeat, driving the fee lower and lower. Eventually, it would reach some kind of equilibrium, where the pool must front $530 M in cash, but they collect *enough* money to make a decent Rate of Return.
+
+So that's the point. The capital cost is (essentially) *free*. It is "paid for", by the stream of incoming fees. It is paid for by the net present value of the fee-profits you later obtain.
+
+So, let's review.
+
+First, the "capital requirements" number *follows* the "Bitcoin txn fees" number. It only becomes large and intimidating, *after* Bitcoin's txn fees rise. (It cannot "jump up" and be "stuck" at a high value, throwing the system into crisis.) We *want* Bitcoin to be a success -- we want "30 days worth of miner payouts" to be high -- we want a high security budget -- we want many happy users. So -- these complaints about high capital costs for pools, are really just complaints about *Bitcoin succeeding*.
+
+Second, these capital costs come with *a benefit* attached -- the ability to charge 1% (or whatever the prevailing rate is) *of* the original fee-magnitude.
+
+So, it is *not* a plutocracy -- in other words, it is NOT a scenario where the wealthiest do as they like, and the rest of us suffer. Instead, it is merely *specialization of labor* -- a few specialists have chosen to **shift a portion** of the annual fee revenue, into the present. In our toy example (above), that "portion" was [00.083%], ie [1% of (1/12)] the annual fee revenue. But that's all it is -- a mortgage on a house / a car loan / commercial paper. It is a shift of payments (across time), for mutual convenience.
