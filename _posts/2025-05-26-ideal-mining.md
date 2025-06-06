@@ -281,3 +281,8 @@ First, the "capital requirements" number *follows* the "Bitcoin txn fees" number
 Second, these capital costs come with *a benefit* attached -- the ability to charge 1% (or whatever the prevailing rate is) *of* the original fee-magnitude.
 
 So, it is *not* a plutocracy -- in other words, it is NOT a scenario where the wealthiest do as they like, and the rest of us suffer. Instead, it is merely *specialization of labor* -- a few specialists have chosen to **shift a portion** of the annual fee revenue, into the present. In our toy example (above), that "portion" was [00.083%], ie [1% of (1/12)] the annual fee revenue. But that's all it is -- a mortgage on a house / a car loan / commercial paper. It is a shift of payments (across time), for mutual convenience.
+
+
+---
+
+### Footnotes
