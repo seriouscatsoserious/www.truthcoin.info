@@ -11,7 +11,7 @@ I've enjoyed speaking on many podcasts hosted by other people, but personally I 
 * I don't like the idea of doing a "regular" show -- ie, a show every week (or so). I'd rather only do a show if I have something important to say. Something worthy of people's scarce time and attention.
 * As a podcast audience grows, the "audience capture" problem can arise, where a host gives people what they want to hear instead of speaking his mind. 
 
-Instead, I'm happy to go on *other people's shows* (invite me on! -- I almost always say yes!). Here I collect my appearances and interviews in a big list.
+Instead, I'm happy to go on *other people's shows* (invite me on! -- I almost always say yes!). You can also find me on [LayerTwo Labs Spaces](https://layertwolabs.com/spaces) where I engage with the community. Here I collect my appearances and interviews in a big list.
 
 
 
@@ -32,6 +32,7 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 
 | Date | Title/Link | Length | Comments |
 |-|-|-|-|
+|June 10th, 2025|[Is Bitcoin Failing? Alex Gladstein vs. Paul Sztorc](https://www.youtube.com/watch?v=-OPZ3q_8zHg)|1h,42m,40s|Paul debates Alex Gladstein on the Lighting Network.|
 |April  29th, 2025|[Bitcoin L1 vs L2 Debate](https://www.youtube.com/live/n29r-eWA6Zo)|2h,23m,15s|Paul debates with Kurt Wuckert Jr on CoinGeek podcast.|
 |December 7th, 2024|[The Litecoin Forecast](https://www.youtube.com/watch?v=c_fiK-00V1M&t=3s)|3h,51m,14s|Paul appears on a Litecoin podcast to give a wide overview on his ideas.|
 |December 6th, 2024|[Bitcoin Takeover S15 E68: Paul Sztorc on CUSF](https://www.youtube.com/watch?v=p2zXzG9-abc&t=125s)|2h,10m,45s|Paul appears on BTCTKVR again, this time to discuss Core Untouched Soft Forks.|
