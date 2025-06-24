@@ -11,9 +11,9 @@ I've enjoyed speaking on many podcasts hosted by other people, but personally I 
 * I don't like the idea of doing a "regular" show -- ie, a show every week (or so). I'd rather only do a show if I have something important to say. Something worthy of people's scarce time and attention.
 * As a podcast audience grows, the "audience capture" problem can arise, where a host gives people what they want to hear instead of speaking his mind. 
 
-Instead, I'm happy to go on *other people's shows* (invite me on! -- I almost always say yes!). You can also find me on [LayerTwo Labs Spaces](https://layertwolabs.com/spaces) where I engage with the community. Here I collect my appearances and interviews in a big list.
+Instead, I'm happy to go on *other people's shows* (invite me on! -- I almost always say yes!). Here I collect my appearances and interviews in a big list.
 
-
+Update: I now often do a [LayerTwo Labs Weekly Space](https://layertwolabs.com/spaces) where I engage with the community.
 
 <!--
 howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
@@ -73,6 +73,8 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 |May 23, 2023|[Demolishing Dogmas: The Rebels Reshaping the Bitcoin Battlefield and Crypto's Radical Architects Neel Somani, Leonard Dorlochter, and Paul Sztorc](https://www.untoldstories.com/demolishing-dogmas-the-rebels-reshaping-the-bitcoin-battlefield-and-cryptos-radical-architects-neel-somani-leonard-dorlochter-and-paul-sztorc/)|1h,14m,0s|Paul Sztorc discusses exciting layer-2 solutions with Charlie Shrem, Neel Somani, and Leonard Dorlochter.|
 |May 20, 2023|[Bitcoin Conference: Transaction Censorship panel with Udi Wertheimer, Paul Sztorc, and others](https://youtu.be/Jitb_CAm3ME)|45m,19s|Craig Deutsch of Bitcoin Magazine hosts a panel discussing Bitcoin Transaction Censorship starring Nick Hansen of Luxor Technologies, Udi Wertheimer of Taproot Wizards, and Paul Sztorc of LayerTwo Labs at Bitcoin 2023 Mining Stage.|
 |April 30, 2023|[Bitcoin++ Conference: Layer-2s: Panel Discussion w/ niftynei, John Light, Paul Sztorc, and Super Testnet](https://youtu.be/gzXzAtTvMhM)|58m,06s|Niftynei of Base58 joins John Light of Sovyrn, Paul Sztorc of LayerTwo Labs, and Super Testnet to talk about Layer 2s.|
+|Apr 14, 2023|[Hong Kong Web3 Festival 2023 -- Bitcoin, Drivechain, and Sidechains](https://www.youtube.com/watch?v=8B0RfOysA64&t=19911s)|Paul Sztorc speaks on Drivechain and the sidechain vision for Bitcoin.|
+|Apr 12, 2023|[Hong Kong Web3 Festival 2023 -- Bitcoin Ecosystem: Technology and Development (Afternoon Session)]([https://www.youtube.com/watch?v=8B0RfOysA64&t=19911s](https://youtu.be/-PXlLVGAotk?t=2403))|Paul Sztorc speaks on Drivechain and LayerTwo Labs.|
 |Jan 26, 2023|[Australian Bitcoin Podcast -- Paul Sztorc What are Sidechains and Drivechains Made](https://youtu.be/XJ_PNmCo4b0)|1h,31m,32s|Paul Sztorc is interviewed on the history of sidechains, merged mining, and Drivechain.|
 |Jan 15, 2023|[Shitcoin TV -- Paul Sztorc on Bitcoin Sidechains](https://youtu.be/29PVPJilHcA)|36m,33s|Paul Sztorc is interviewed regarding Drivechain, the Hivemind project, and the future.|
 |Jan 19, 2023|[The Kevin Rooke Podcast -- Paul Sztorc on Drivechain (BIP 300/301), Bitcoin Sidechains, and Building Layer Two Labs](https://youtu.be/Z0Ax61bLTIM)|2h,6m,14s|Kevin Rooke interviews Paul Sztorc on the history of Drivechain, the advantages and disadvantages of sidechains on Bitcoin, and the founding of LayerTwo Labs.|
