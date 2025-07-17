@@ -121,12 +121,20 @@ Here's the current list, as I see it:
 * Saifedean Ammous fully supported it. Endorsing (for example) [this tweet](https://x.com/saifedean/status/1385458194454097920) (which predicted [in 2021] a mid-2025 Bitcoin price of $1 Million). And [stating](https://x.com/ercwl/status/1358568773532409858) "0.964 for the R squared ... I've never seen anything like this" -- completely oblivious to the fact that the R-squared number is so high because it is *doctored* and *misinterpreted*. Again, it would be like Walter White saying: "a temperature of twenty billion degrees, right here on Earth ... I've never seen anything like it". (Yeah, that's because your thermometer is broken.) It betrays a total unfamiliarity with the vocab words.
 * Yet this was taken very seriously for a long time! (And still is, as far as I know.)
 * [See also](https://x.com/ercwl/status/1649376226455298051), [see also](https://x.com/ercwl/status/1250537262800142336): "Anyone can make a [mathematical] mistake, but not when you have a 10 year career in economics. That's when it becomes insane."
-7. The "Bitcoin Treasury" Companies
+7. The 2025 OP_Return B-S
+* One recent moral panic was: the [Op return drama](https://x.com/basedkarbon/status/1917309726192226342).
+* Many people decided to weigh in... which was a big mistake for some of them, since we now know how unfathomably clueless they are.
+* Some [of](https://x.com/GrassFedBitcoin/status/1918830326287094045) [the](https://x.com/LukeDashjr/status/1933267524097036412) [stupidest](https://x.com/DudeJLebowski/status/1932080822724817374) [tweets](https://x.com/TomerStrolight/status/1944718805122388155) [would](https://x.com/john_zaprite/status/1919006405534593310) [be](https://x.com/r0ckstardev/status/1918022538271068338) [these](https://x.com/Dennis_Porter_/status/1937394296086487091) [ones](https://x.com/Excellion/status/1931511177366155443) ([and](https://x.com/jimmysong/status/1932072722319696292) [these](https://x.com/parkeralewis/status/1917928409335791628)). And [this](https://x.com/ercwl/status/1917595603778867573).
+* Some [correct](https://x.com/Leishman/status/1921746985129799933) [tweets](https://x.com/lopp/status/1917924032487260192) [would](https://x.com/moneyball/status/1919163672561332476) [be](https://x.com/sethforprivacy/status/1920501115684041135) [these](https://x.com/D_plus__plus/status/1918463922317017598).
+* A few people *wisely noticed* [the](https://x.com/Truthcoin/status/1921655876617941314) [implications](https://x.com/pavlenex/status/1923636302508933628) of this derangement: "[we've been tricked into] DEBATING THE DUMBEST FUCKING SHIT LIKE OP RETURN...TO DISTRACT US FROM BUILDING ANYTHING THAT ACTUALLY FUCKING MATTERS"
+* Making matters worse, the bad actors were (in this case) rewarded with a bunch of undeserved attention. (See [also](https://x.com/ercwl/status/1918400547612250290).)
+* Plus, the "core is [corrupt](https://x.com/francispouliot_/status/1918085328977514752)" issue has [finally come to light](https://x.com/eric_lombrozo/status/1939836770394223056)... but (unfortunately) in this situation Core is 100% correct, and the opposition to Core is an ignorant rabble. So --alas-- we won't get any reform/improvement to Core [out of this episode].
+8. The "Bitcoin Treasury" Companies
 * How low we have fallen! In the distant past, we said: "buy Bitcoin, and use Bitcoin". In the recent past, we shortened that to: "buy Bitcoin". Now, we don't even tell people to buy Bitcoin. We tell them to buy *legal entities* (such as corporations).
 * First, this defies common sense. Obviously these companies have: expenses, taxes, regulations, and risk of theft/loss. In contrast, traditional ownership of Bitcoin is: free, allows for regulatory arbitrage (and privacy), and has zero risk of theft. The companies are strictly inferior. Strange as it may seem, we are now asking people to buy "paper" stock (an asset with unlimited supply, a 100% premine, and a centralized issuer), instead of Bitcoin.
 * Second, even if a "Treasury Company" had some kind of advantage (and could achieve a higher ROI than Bitcoin itself), this advantage would (seemingly) be competed away, once there were two TCs.
 * Third, these companies pose a risk to the Bitcoin brand. They muddy the waters, on what Bitcoin is about. They introduce a risk of catastrophic "rug-pulling" (as with FTX). They discourage actual use of Bitcoin (ie, the software) -- they discourage self-custody, and rob miners of txn fees. They encourage low-IQ-style hype, and an unhealthy, Ponzi-like preoccupation with the exchange rate.
-8. Useless Taproot
+9. Useless Taproot
 * Years and years were spent on Taproot [2018-2021] -- only for it to ship without the key promised feature (cross input signature aggregation).
 * It was [ridiculously](https://x.com/theonevortex/status/1125736587487318016) [overhyped](https://x.com/jfnewbery/status/1208559206405722113), by [almost](https://x.com/krakenfx/status/1462752753596383237) [everyone](https://x.com/APompliano/status/1459761671598133254).
 * It then [remained at 0% adoption](https://x.com/ercwl/status/1482996892103589890), for months and months -- after about a year, it had almost reached 1%. (SegWit, in contrast, had reached 30% adoption by the end of its first year.) 
@@ -137,9 +145,9 @@ Here's the current list, as I see it:
 * It is further evidence that Bitcoin is handcuffed to the non-mined L2s (ie lightning), and that Bitcoin [development is geared towards furthering non-mined L2s](https://x.com/nikzh/status/1896931704637665623) -- even if it means the death of the Bitcoin project.
 * Making matters worse(!), the uselessness of Taproot has been *reinterpreted*, as a *reason soft forks are bad*. For example [by](https://x.com/BitcoinBombadil/status/1935725808045134214) [this](https://x.com/BitcoinBombadil/status/1917883709526884410) [guy](https://x.com/BitcoinBombadil/status/1928817747086938366) -- and this attitude has percolated down to the noobs. In fact, it is a perfect example of a type of misinformation that spreads quickly and hardily to the easily-deceived.
 * In reality, the attitude should be: because we *screwed that last one up*, we need to do **two**, soon, in order to get back on schedule.
-9. Utterly Bizarre Nonsense, said about my own project.
+10. Utterly Bizarre Nonsense, said about my own project.
 * See [drivechain.info/misinformation/](https://www.drivechain.info/misinformation/).
-10. Prediction Market Neglect
+11. Prediction Market Neglect
 * Back in 2013-2014, I [coded](https://github.com/psztorc/Truthcoin), [published](https://bitcoinhivemind.com/papers/truthcoin-whitepaper.pdf), and [promoted](https://fountain.fm/episode/q33eXLFNrVvvDNBm8a9w) the idea of "prediction markets on Bitcoin".
 * In May 2014, my idea made it [to the top of Hacker News](https://news.ycombinator.com/item?id=7691289).
 * My idea never launched because Bitcoin's tech stack could not support it. 
