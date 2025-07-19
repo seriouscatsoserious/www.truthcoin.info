@@ -94,7 +94,25 @@ Here's the current list, as I see it:
 * Fourth, miners have switched (overwhelmingly) to PPS. PPS gives all block-construction authority to the pool, making SV2 useless. This is [a very positive development](https://www.truthcoin.info/blog/ideal-mining/).
 * StratumV2 is 8 years old, yet somehow isn't finished.
 * The whole thing is a buzzword. It is part of [a grift](https://www.truthcoin.info/blog/popular-mining-lies/#part-2-the-grift), and a disturbing trend: a "nice sounding idea", which (under the hood) is bad. This is a sure sign of cultural decay -- and of our vulnerability to charismatic charlatans. Thus, it is a sign of more bad things to come.
-4. BtcPayServer replacing BitPay
+4. Rise of "Federations"
+* Dishonest to its core, this idea poisons discourse throughout our industry. It has done enormous harm -- and continues to do so to this day.
+* First, notice that the federation idea is *right next to* ... *the worst possible idea*: (that being: giving all of your coins to someone else).
+* In fact, it basically *is* that idea -- because: while a federation might *claim* to use 15 (or whatever) separate mulisig-keys -- it *cannot* ever prove this. By its very nature, all 15 keys might be controlled by one person.
+* Second, in practice, the "federated model" relies on the *reputation* and *trustworthiness* of the federation-members. But in all major cases (ie, Blockstream's Liquid), the federation-members are *secret*. And -- if they were known -- they would be open to arrest, kidnap, torture, etc. So the model is fundamentally broken. The cypherpunk ideal (trusting code, instead of people), is completely abandoned!
+* It is a sad rejection of "computer science", "cryptography", "decentralization" or "protocol-ization" -- there is no "method", or "timing", (or withdrawal-constraints, alert system, ...) or any kind of "reason" to believe that the federation will repay you. The federation idea exists completely within the frame whichever L1 (or L2) it was based on. It contains no novelty. (In fact, it is the "dev keys" model that Bitcoiners *used* to make fun of Ethereum projects for using.)
+* The federation idea was introduced [in Bitcoin-land] by [Blockstream's Appendix A](https://blockstream.com/sidechains.pdf), back in October 2014. Greg Maxwell --then CTO of Blockstream-- clarified in [a presentation](https://www.drivechain.info/blog/liquid/) that the federated model was a temporarily alternative to the "true" two-way peg. Matt Corallo later [tweeted](https://x.com/TheBlueMatt/status/1217910311774302208): "if anyone tells you to use this for anything else [other than exchange-to-exchange xfers], treat them like they're trying to steal your Bitcoin".
+* The UX is horrendous. Laypeople don't trust federations, they trust *brands* -- that is how we would get them to (for example) "install electrum" or "use Samourai" or "use Trezor". The brand is like a hostage, that we [laypeople] can collectively *execute*, if we are betrayed. The idea that someone would "use Fedi", then open the app -- and then "choose your federation" from a list -- that is laughable. People expect the list to be pre-curated (rightly so).
+* The federation idea is a crutch. It is easy, which tempts the weak-minded. Most people (including Blockstream) have yielded to temptation, **giving up** on other, better ideas -- purely out of laziness. This warps and corrupts our entire culture.
+5. Unilateral Exit
+* "Bitcoin Season 2" arose, after my 2022 [Lightning Limitations](https://www.truthcoin.info/blog/lightning-limitations/) essay. People realized that Bitcoin would need new L2s.
+* However, innumerable scam "Bitcoin L2" companies arose. To fight this, people searched for *a good definition* of "Bitcoin L2" (and rightly so).
+* Unfortunately, they settled on **a terrible** definition: the "unilateral exit". Ie, "the ability to get your money from L2, back to L1, without asking for permission".
+* That definition *does* disqualify the scam-companies -- in that way, it was helpful (I suppose). But, the problem is: it also disqualified *everything*.
+* It is easy to see why: L1 is small, and L1 does not have room for 8 billion people. (If it did, we wouldn't need L2s in the first place.) So, if 8 billion people are using some L2, then **never** can they **all** get from L2 to L1. So in that sense, it is never unilateral.
+* This was [very very obvious to me the whole time](https://x.com/Truthcoin/status/1945886730067820957). It's just Lightning's onboarding problem, "upside down".
+* Nonetheless, throughout 2023-2025, I still have to listen to the so-called "experts" in [our](https://x.com/isabelfoxenduke/status/1883526269196996725) [industry](https://x.com/n1ckler/status/1837872233202483616) [repeat](https://x.com/mononautical/status/1777876859868590106) [this](https://x.com/giacomozucco/status/1826633667923337304) [nonsense](https://x.com/callebtc/status/1765659494674022505).
+* I also explained --back in 2021-- [what to do instead](https://www.truthcoin.info/blog/thunder/). How long am I going to have to wait, before people realize I was right?
+6. BtcPayServer replacing BitPay
 * Quite [famously](https://bitcoinmagazine.com/business/btcpay-server-the-backbone-of-bitcoin-commerce-2025), BtcPayServer was born out of [a reaction](https://x.com/NicolasDorier/status/898378514256207872) to BitPay's stance on SegWit during The Blocksize War.
 * The problem is: "make you obsolete", implies that BtcPayServer will perform similar functions to BitPay. It does not.
 * * BitPay was [an ingenious idea](https://www.bitpay.com/online-payments): "de-risk" merchant adoption, via specialization of labor. To accomplish this, BitPay offers: [1] immediate conversion of BTC to fiat; and depositing into the merchant's account, the next day; [2] low fees (in fact, 0% for the first million processed); [3] symbiotic growth (ie, a mutually beneficial relationship between the merchant and BitPay as a corporation); [4] a neat little [sticker](https://developer.bitpay.com/docs/checkout-integration) "Pay with BitPay" to evangelize Bitcoin (again, with quality-control on the brand); [5] Support (ie, a customer service phone number to call, full-time developers working on Shopify Integrations, easy "mainstream" UX, etc).
@@ -103,7 +121,7 @@ Here's the current list, as I see it:
 * And yet -- BPS has *a lot* of fans. I've seen them myself, in my travels (especially across Bitcoin Europe). Last year, [TFTC wrote](https://www.tftc.io/btcpay-server-documentary/): "BTCPay Server is one of the most important open source projects built on top of the bitcoin network and it has been awe inspiring to watch what the project has been able to achieve in less than seven years."
 * This whole line of thinking is false, and deranged. BtcPayServer is a volunteer project, that does not make any money, and does not provide the core BitPay services (same-day $-conversion, customer support) -- its developers are not disciplined by the BitPay brand, nor by the market. This is a night-and-day different project than BitPay.
 * Yet [people](https://x.com/BtcpayServer/status/1824844068397920767) [still](https://x.com/BitcoinMagazine/status/1182735360197038080) [compare](https://x.com/boyacaxa/status/1819800115277627797) the [two](https://x.com/Truthcoin/status/1749239101956526584).
-5. The SegWit Discount
+7. The SegWit Discount
 * SegWit was a blocksize increase: from 1 MB to 4 MB.
 * However, *most people* misunderstood this. Instead, they thought that the SegWit txns were somehow "smaller" or "packed more efficiently" into the same old 1 MB block.
 * Back in 2016-2017 (when SegWit was proposed/activating), this misconception was *everywhere*. Every time I talked to a Bitcoiner in person, they believed this. They were astounded when I told them it wasn't true.
@@ -112,7 +130,7 @@ Here's the current list, as I see it:
 * Tadge Dryja [wrote a post](https://x.com/TuurDemeester/status/823022145370525696) about how surprised he was, to learn (upon investigating) that this was the case.
 * You would think -- given how significant SegWit was -- that this elementary fact would be common knowledge. But no -- unfortunately, (for whatever reason), word failed to get out. Ignorance, spread faster than knowledge.
 * Some people still haven't gotten the memo: [Blockstream twitter guy in 2023](https://x.com/Blockstream/status/1645932320652955648), [Lyn Alden in 2023](https://x.com/LynAldenContact/status/1610395503836938240), [this guy in 2021](https://x.com/MitchKlee_/status/1464595250744369162).
-6. Stock to Flow
+8. Stock to Flow
 * "S2F" was an unbearably stupid idea.
 * It basically said: Bitcoin's price is *not* determined by "supply and demand" -- but instead merely by "supply". That is what it *said* it was saying. In reality it was just an "extrapolation" over time.
 * It mixed various statistical sins -- misinterpretation of R2, violation of regression assumptions, over-fitting -- with psychological sins -- "wishful thinking", "mathematical techno-babble", "social manipulation". I myself worked as a professional statistician and economist for 2 years, so I recognized all of these. Fitting points to a curve, does not make an argument -- especially if you can secretly toy with the curves in private, before releasing one curve in public. R2 is only a measure of the *model data* fitting the *model equation* -- it says nothing about the future (ie, Nassim Taleb's "turkey problem"). The stock-to-flow of Bitcoin is already known, so S2F violates Hayek's conception of prices as "reacting to new information" (this is also the mainstream economic view). As a projection of endless excess returns, it violates the Efficient Markets Hypothesis, etc.
@@ -121,7 +139,7 @@ Here's the current list, as I see it:
 * Saifedean Ammous fully supported it. Endorsing (for example) [this tweet](https://x.com/saifedean/status/1385458194454097920) (which predicted [in 2021] a mid-2025 Bitcoin price of $1 Million). And [stating](https://x.com/ercwl/status/1358568773532409858) "0.964 for the R squared ... I've never seen anything like this" -- completely oblivious to the fact that the R-squared number is so high because it is *doctored* and *misinterpreted*. Again, it would be like Walter White saying: "a temperature of twenty billion degrees, right here on Earth ... I've never seen anything like it". (Yeah, that's because your thermometer is broken.) It betrays a total unfamiliarity with the vocab words.
 * Yet this was taken very seriously for a long time! (And still is, as far as I know.)
 * [See also](https://x.com/ercwl/status/1649376226455298051), [see also](https://x.com/ercwl/status/1250537262800142336): "Anyone can make a [mathematical] mistake, but not when you have a 10 year career in economics. That's when it becomes insane."
-7. The 2025 OP_Return B-S
+9. The 2025 OP_Return B-S
 * One recent moral panic was: the [Op return drama](https://x.com/basedkarbon/status/1917309726192226342).
 * Many people decided to weigh in... which was a big mistake for some of them, since we now know how unfathomably clueless they are.
 * Some [of](https://x.com/GrassFedBitcoin/status/1918830326287094045) [the](https://x.com/LukeDashjr/status/1933267524097036412) [stupidest](https://x.com/DudeJLebowski/status/1932080822724817374) [tweets](https://x.com/TomerStrolight/status/1944718805122388155) [would](https://x.com/john_zaprite/status/1919006405534593310) [be](https://x.com/r0ckstardev/status/1918022538271068338) [these](https://x.com/Dennis_Porter_/status/1937394296086487091) [ones](https://x.com/Excellion/status/1931511177366155443) ([and](https://x.com/jimmysong/status/1932072722319696292) [these](https://x.com/parkeralewis/status/1917928409335791628)). And [this](https://x.com/ercwl/status/1917595603778867573).
@@ -129,12 +147,12 @@ Here's the current list, as I see it:
 * A few people *wisely noticed* [the](https://x.com/Truthcoin/status/1921655876617941314) [implications](https://x.com/pavlenex/status/1923636302508933628) of this derangement: "[we've been tricked into] DEBATING THE DUMBEST FUCKING SHIT LIKE OP RETURN...TO DISTRACT US FROM BUILDING ANYTHING THAT ACTUALLY FUCKING MATTERS"
 * Making matters worse, the bad actors were (in this case) rewarded with a bunch of undeserved attention. (See [also](https://x.com/ercwl/status/1918400547612250290).)
 * Plus, the "core is [corrupt](https://x.com/francispouliot_/status/1918085328977514752)" issue has [finally come to light](https://x.com/eric_lombrozo/status/1939836770394223056)... but (unfortunately) in this situation Core is 100% correct, and the opposition to Core is an ignorant rabble. So --alas-- we won't get any reform/improvement to Core [out of this episode].
-8. The "Bitcoin Treasury" Companies
+10. The "Bitcoin Treasury" Companies
 * How low we have fallen! In the distant past, we said: "buy Bitcoin, and use Bitcoin". In the recent past, we shortened that to: "buy Bitcoin". Now, we don't even tell people to buy Bitcoin. We tell them to buy *legal entities* (such as corporations).
 * First, this defies common sense. Obviously these companies have: expenses, taxes, regulations, and risk of theft/loss. In contrast, traditional ownership of Bitcoin is: free, allows for regulatory arbitrage (and privacy), and has zero risk of theft. The companies are strictly inferior. Strange as it may seem, we are now asking people to buy "paper" stock (an asset with unlimited supply, a 100% premine, and a centralized issuer), instead of Bitcoin.
 * Second, even if a "Treasury Company" had some kind of advantage (and could achieve a higher ROI than Bitcoin itself), this advantage would (seemingly) be competed away, once there were two TCs.
 * Third, these companies pose a risk to the Bitcoin brand. They muddy the waters, on what Bitcoin is about. They introduce a risk of catastrophic "rug-pulling" (as with FTX). They discourage actual use of Bitcoin (ie, the software) -- they discourage self-custody, and rob miners of txn fees. They encourage low-IQ-style hype, and an unhealthy, Ponzi-like preoccupation with the exchange rate.
-9. Useless Taproot
+11. Useless Taproot
 * Years and years were spent on Taproot [2018-2021] -- only for it to ship without the key promised feature (cross input signature aggregation).
 * It was [ridiculously](https://x.com/theonevortex/status/1125736587487318016) [overhyped](https://x.com/jfnewbery/status/1208559206405722113), by [almost](https://x.com/krakenfx/status/1462752753596383237) [everyone](https://x.com/APompliano/status/1459761671598133254).
 * It then [remained at 0% adoption](https://x.com/ercwl/status/1482996892103589890), for months and months -- after about a year, it had almost reached 1%. (SegWit, in contrast, had reached 30% adoption by the end of its first year.) 
@@ -145,9 +163,9 @@ Here's the current list, as I see it:
 * It is further evidence that Bitcoin is handcuffed to the non-mined L2s (ie lightning), and that Bitcoin [development is geared towards furthering non-mined L2s](https://x.com/nikzh/status/1896931704637665623) -- even if it means the death of the Bitcoin project.
 * Making matters worse(!), the uselessness of Taproot has been *reinterpreted*, as a *reason soft forks are bad*. For example [by](https://x.com/BitcoinBombadil/status/1935725808045134214) [this](https://x.com/BitcoinBombadil/status/1917883709526884410) [guy](https://x.com/BitcoinBombadil/status/1928817747086938366) -- and this attitude has percolated down to the noobs. In fact, it is a perfect example of a type of misinformation that spreads quickly and hardily to the easily-deceived.
 * In reality, the attitude should be: because we *screwed that last one up*, we need to do **two**, soon, in order to get back on schedule.
-10. Utterly Bizarre Nonsense, said about my own project.
+12. Utterly Bizarre Nonsense, said about my own project.
 * See [drivechain.info/misinformation/](https://www.drivechain.info/misinformation/).
-11. Prediction Market Neglect
+13. Prediction Market Neglect
 * Back in 2013-2014, I [coded](https://github.com/psztorc/Truthcoin), [published](https://bitcoinhivemind.com/papers/truthcoin-whitepaper.pdf), and [promoted](https://fountain.fm/episode/q33eXLFNrVvvDNBm8a9w) the idea of "prediction markets on Bitcoin".
 * In May 2014, my idea made it [to the top of Hacker News](https://news.ycombinator.com/item?id=7691289).
 * My idea never launched because Bitcoin's tech stack could not support it. 
@@ -173,6 +191,13 @@ Here's the current list, as I see it:
 3. The Blocksize War / Mining Grift / Mining "Centralization"
 * The conventional wisdom is that [1] miners caused the blocksize war, [2] miners are untrustworthy and must be constrained, and [3] something called "mining centralization" exists, and we must work hard to prevent it.
 * All of those are false, as I've written on [here](https://www.truthcoin.info/blog/popular-mining-lies/).
+4. Bizarre Focus and Undignified Priorities
+* Back in Jan 2022, [I lamented](https://x.com/Truthcoin/status/1484999128073580548) that Adam Back [our pseudo-leader] was wasting his time, posting "price junk" instead of talking about Bitcoin's serious problems.
+* It has only gotten worse! You can use twitted advanced search: [from:adam3us price], or [from:adam3us mNAV], to see just how often [this junk](https://x.com/adam3us/status/1944185897123000637) is posted.
+* Also, [Pete Rizzo](https://x.com/pete_rizzo_) -- formerly a serious person -- now just posts CAPS LOCK pump-the-price junk. These are [lamentable](https://x.com/UnderCoercion/status/1940571942324785372) [changes](https://x.com/satskeeper_/status/1913329730524168375).
+* Bitcoin truly has no leaders... in the *bad sense*, of just: "not enough high-quality people nearby".
+
+
 
 I will add to this list, if I think of any more!
 
@@ -192,7 +217,7 @@ Anyway, these days everyone just wants to *pump the coin*. Or, they're in bed wi
 
 Its *annoying* to put up with all of this nonsense.
 
-And -- it drives smart people away. If we lose the smart people, then we lose our *warning system*. After all, 15 years ago, the "smart people" were all warning us *to get into* Bitcoin -- they were warning of the dangers of fiat. The smart people will Jump Ship to a better idea, and make it a success. (Turning Bitcoin into a failure, in the process.)
+And -- it drives smart people away. If we lose the smart people, then we lose our *warning system*. After all, 15 years ago, the "smart people" warned us *to get into* Bitcoin -- and of the dangers of fiat. The smart people will Jump Ship to a better idea, and make it a success. (Turning Bitcoin into a failure, in the process.)
 
 Some argue that Bitcoin has "already won". (Therefore, it has no competitors.) Unfortunately, this isn't true.
 
@@ -207,6 +232,7 @@ The theme of "[truth-oriented] vs [loyalty-oriented]", is explored in many books
 * [How to think for yourself](https://paulgraham.com/think.html), by Paul Graham (2020)
 * [Conflict vs Mistake](https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/), by Scott Alexander (2018)
 * [The Scout Mindset](https://www.amazon.com/dp/B089CJ6SVS?btkr=1), ie "Scouts vs Soldiers", by Julia Galef (2021)
+* [The Beginning of Infinity](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359), Chapter 15, by David Deutsch (2011)
 
 Consider this excerpt:
 
@@ -225,3 +251,4 @@ Consider this excerpt:
 Bitcoin seems to be undergoing this same shift, [from independent-minded to conventional-minded].
 
 This points toward an *opportunity* -- if you jump ship at the right time, it *might* be possible to experience +100,000% returns... *twice* in one lifetime.
+
