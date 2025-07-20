@@ -152,7 +152,12 @@ Here's the current list, as I see it:
 * First, this defies common sense. Obviously these companies have: expenses, taxes, regulations, and risk of theft/loss. In contrast, traditional ownership of Bitcoin is: free, allows for regulatory arbitrage (and privacy), and has zero risk of theft. The companies are strictly inferior. Strange as it may seem, we are now asking people to buy "paper" stock (an asset with unlimited supply, a 100% premine, and a centralized issuer), instead of Bitcoin.
 * Second, even if a "Treasury Company" had some kind of advantage (and could achieve a higher ROI than Bitcoin itself), this advantage would (seemingly) be competed away, once there were two TCs.
 * Third, these companies pose a risk to the Bitcoin brand. They muddy the waters, on what Bitcoin is about. They introduce a risk of catastrophic "rug-pulling" (as with FTX). They discourage actual use of Bitcoin (ie, the software) -- they discourage self-custody, and rob miners of txn fees. They encourage low-IQ-style hype, and an unhealthy, Ponzi-like preoccupation with the exchange rate.
-11. Useless Taproot
+11. Saylor's War on Innovation
+* In April 2024, Matt Odell [blew the whistle](https://www.youtube.com/live/TUIxxqcImB8?t=1915) that Michael Saylor has been going around... *actively killing funding* for Bitcoin development. 
+* Saylor *desires* stasis, for Bitcoin. That's his end goal! That is a far more extreme position, than (for example): "this improvement would be nice... but it is too risky". Saylor doesn't seem to know anything about [soft-vs-hard fork, backwards compatibility etc]. He literally *does not want*, any improvements.
+* (I refute that, in detail, in my [ossification article](https://www.truthcoin.info/blog/precedence-ossification/). It leads to humorous nonsense like [Saylor shilling for Monero on WBD](https://www.youtube.com/watch?v=ccJ33hLaMF0).)
+* But we must emphasize one thing: Saylor did this *in secret*. He was *too cowardly* to stand behind his actions. So -- we must now ask: *how many other secrets* does Saylor have? *What else* has he killed, in Bitcoin... and why? 
+12. Useless Taproot
 * Years and years were spent on Taproot [2018-2021] -- only for it to ship without the key promised feature (cross input signature aggregation).
 * It was [ridiculously](https://x.com/theonevortex/status/1125736587487318016) [overhyped](https://x.com/jfnewbery/status/1208559206405722113), by [almost](https://x.com/krakenfx/status/1462752753596383237) [everyone](https://x.com/APompliano/status/1459761671598133254).
 * It then [remained at 0% adoption](https://x.com/ercwl/status/1482996892103589890), for months and months -- after about a year, it had almost reached 1%. (SegWit, in contrast, had reached 30% adoption by the end of its first year.) 
@@ -163,9 +168,9 @@ Here's the current list, as I see it:
 * It is further evidence that Bitcoin is handcuffed to the non-mined L2s (ie lightning), and that Bitcoin [development is geared towards furthering non-mined L2s](https://x.com/nikzh/status/1896931704637665623) -- even if it means the death of the Bitcoin project.
 * Making matters worse(!), the uselessness of Taproot has been *reinterpreted*, as a *reason soft forks are bad*. For example [by](https://x.com/BitcoinBombadil/status/1935725808045134214) [this](https://x.com/BitcoinBombadil/status/1917883709526884410) [guy](https://x.com/BitcoinBombadil/status/1928817747086938366) -- and this attitude has percolated down to the noobs. In fact, it is a perfect example of a type of misinformation that spreads quickly and hardily to the easily-deceived.
 * In reality, the attitude should be: because we *screwed that last one up*, we need to do **two**, soon, in order to get back on schedule.
-12. Utterly Bizarre Nonsense, said about my own project.
+13. Utterly Bizarre Nonsense, said about my own project.
 * See [drivechain.info/misinformation/](https://www.drivechain.info/misinformation/).
-13. Prediction Market Neglect
+14. Prediction Market Neglect
 * Back in 2013-2014, I [coded](https://github.com/psztorc/Truthcoin), [published](https://bitcoinhivemind.com/papers/truthcoin-whitepaper.pdf), and [promoted](https://fountain.fm/episode/q33eXLFNrVvvDNBm8a9w) the idea of "prediction markets on Bitcoin".
 * In May 2014, my idea made it [to the top of Hacker News](https://news.ycombinator.com/item?id=7691289).
 * My idea never launched because Bitcoin's tech stack could not support it. 
