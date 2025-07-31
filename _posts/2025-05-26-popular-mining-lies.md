@@ -247,7 +247,7 @@ The problem is: this attitude is hostile to the truth.
 
 
 
-## Part 2. The Grift!
+## Part 2 -- The Grift!
 
 So -- if mining is perfect, why the complaints?
 
@@ -295,7 +295,7 @@ Anyway -- that's the issue. **There is a huge incentive to lie** about mining, s
 The murkier these terms are defined, the better -- that helps, to make it a better boogeyman. Any genuine menace, can be measured and understood -- and eventually defeated. But *something vague*, will be around forever. Hence [my attempt to measure mining centralization](https://www.truthcoin.info/blog/mirage-miner-centralization/) (back in Jan 2017) ended in failure.
 
 
-## Part 3. My Submission to Bitcoin Magazine
+## Part 3 -- My Submission to Bitcoin Magazine
 
 ### Background
 
@@ -337,9 +337,50 @@ Although "mining centralization" is a fake issue, I will close, with some sugges
 First, we should publish high-quality, high-performance, open-source pool software. Our "OpenPool" should obsessively maximize miner revenue (ie, it should be more like MARA's "slipstream", and not at all like OCEAN pool). Second, we should build a "pool hopper" technology that monitors pools for hashprice, and automatically directs hashrate to the most competitive pool(s). Once it is doing that, it can easily pull double-duty by scanning pools for misbehavior (censorship and reorgs) -- if all known pools are censoring, it can automatically trigger the creation of a new pool (and switch people to it). Finally, we should activate Bip300, because (among other things) it can lower the pool payment threshold by 10x or even 100x (by creating a hashrate-secured L2 for smaller frequent payments). These three steps make it easier to detect if a pool is misbehaving, and to do something about it.
 
 
+## Part 4 -- Why Fewer Pools is Better
+
+(Added July 2025)
+
+A **VERY** common complaint, concerns this mining "pie chart":
+
+![images](/images/stratum-v2-pie.png)
+
+Ocean's pitch deck devoted [a few slides](/images/ocean-slides.png) to this idea.
+
+In fact the idea is practically everywhere, it roams unchallenged:
+
+* Jan 2023 -- [The centralization of Bitcoin: Behind the two mining pools controlling 51% of the global hash rate]
+* Nov 2023 -- [Are Mining Pools Becoming A Problem?](https://bitcoinmagazine.com/technical/are-mining-pools-becoming-a-problem-) -- "in the current environment where >99% of blocks are constructed by the same dozen entities...all the hashrate is beholden to a tiny group of pools and thus the contents of Bitcoin's blockchain going forward ultimately will not include anything these few entities consider unacceptable, as well as a whole host of other issues"
+* Nov 2023 -- [Critics Alarmed as 2 Major Mining Pools Dominate Over 50% of Bitcoin Hashrate](https://news.bitcoin.com/critics-alarmed-as-2-major-mining-pools-dominate-over-50-of-bitcoin-hashrate/)
+
+Yet it is **dead wrong**. The truth is: the pie chart on the left, is **better**. 
+
+Why? Well, some reasons are obvious:
+
+* Greater reduction in variance, (automatically, at a lower cost)
+* Lower overhead (fixed costs are distributed over more people)
+
+But the big reason, is that **pools are brands** -- their main asset is **their name**.
+
+A brand is an economic tool for ensuring reputable behavior. For example, McDonalds is a fast-food brand. Customers see this brand, and become familiar with it -- they start to recognize it, and trust it. This trust is a two-way street. On one hand, trust helps the merchant sell hamburgers. If you end up in a foreign country, very hungry -- you might see several restaurants that you don't recognize. But -- lo an behold!-- a McDonalds. Well, you are more likely to patronize a store, if you recognize it. You'll have some idea of what to expect. On the other hand, the brand makes the merchant vulnerable. A news story "McDonalds more likely to cause cancer, study finds" is much more likely to sell newspapers than "[Tiny Little Unique Cafe Somewhere] sells terrible food". The brand is **a hostage** -- we, as a society, can execute the hostage, if McDonalds *ever* screws over *any* of its customers, anywhere in the world.
+
+So: how many *fast food brands* can you name? 10? 12?
+
+How many *toothpaste brands* can you name? 3? 4?
+
+A brand only works if it is **widely recognized**. That *recognition* is both the asset, [making people more likely to shop there], and the *liability*, [it's how we punish them, and hold them accountable].
+
+So -- there is only room for 10-12 mining pools. It has nothing to do with Bitcoin -- with technology -- or with mining. In **people's minds**, there is only room for a finite number of brands. No one wants to memorize an endless list of pools (nor toothpaste options).
+
+At this point, some people will retreat to a different argument. They will say: "we don't want *to need* to trust pools, at all". Instead, (they say), we should replace pools with a "cryptographic" scheme. Perhaps, you would "deposit $X as a deposit, which you then slash if any QRS misbehavior happens". But that is already *exactly* how brands work. The "deposit" is called brand equity, equal to the NPV of the revenue earned by the pool -- which is the perfect amount. That is exactly what it should be equal to. You would just be replacing pools with something that already exists.
+
+The "pie chart" complaint... is the quintessential example of a popular mining lie. It is widespread, it is false, it involves ignorant people complaining that "mining is broken" -- and when you ask them what they mean, they point to an example of *Perfect Flawless Mining*.
+
+(Truly, Satoshi's invention [proof-of-work] is still underappreciated, even all these years later.)
 
 
-## Part 4 -- Conclusion
+
+## Part 5 -- Conclusion
 
 My criticisms haven't yet killed-off the spectre of "mining centralization".
 
