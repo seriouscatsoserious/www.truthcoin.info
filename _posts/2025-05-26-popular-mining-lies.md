@@ -345,11 +345,11 @@ A **VERY** common complaint, concerns this mining "pie chart":
 
 ![images](/images/stratum-v2-pie.png)
 
-Ocean's pitch deck devoted [a few slides](/images/ocean-slides.png) to this idea.
+Supposedly, the pie chart on the right is better. Ocean's pitch deck devoted [a few slides](/images/ocean-slides.png) to this idea.
 
 In fact the idea is practically everywhere, it roams unchallenged:
 
-* Jan 2023 -- [The centralization of Bitcoin: Behind the two mining pools controlling 51% of the global hash rate]
+* Jan 2023 -- [The centralization of Bitcoin: Behind the two mining pools controlling 51% of the global hash rate](https://cryptoslate.com/behind-the-two-mining-pools-controlling-51-percent-of-the-global-hash-rate/)
 * Nov 2023 -- [Are Mining Pools Becoming A Problem?](https://bitcoinmagazine.com/technical/are-mining-pools-becoming-a-problem-) -- "in the current environment where >99% of blocks are constructed by the same dozen entities...all the hashrate is beholden to a tiny group of pools and thus the contents of Bitcoin's blockchain going forward ultimately will not include anything these few entities consider unacceptable, as well as a whole host of other issues"
 * Nov 2023 -- [Critics Alarmed as 2 Major Mining Pools Dominate Over 50% of Bitcoin Hashrate](https://news.bitcoin.com/critics-alarmed-as-2-major-mining-pools-dominate-over-50-of-bitcoin-hashrate/)
 
