@@ -32,9 +32,12 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 
 | Date | Title/Link | Length | Comments |
 |-|-|-|-|
+|July 30th, 2025|[Paul Sztorc Explains It All](https://youtu.be/PbgF35fz5I8?si=f-PfVvpDkvvjwP2o)|1h,0m,15s|Paul joins Casey Rodarmor on his Hell Money podcast to discuss economics and Bitcoin.|
+|July 8th, 2025|[Paul Sztorc on Scaling Litecoin with Drivechains](https://youtu.be/hLi0vleXnDs?si=yDSJAMWj6YnpzYFu)|3h,9m,32s|Paul discusses scaling Litecoin with Drivechains on 84 Million Podcast.|
 |June 30th, 2025|[Lightning Network Debate: Bitcoin's future or overhyped flop?](https://www.youtube.com/watch?v=PiuHjHKRUTA)|1h,9m,9s|Paul debates Lightning Network adoption and technical challenges with Harsha Goli.|
 |June 10th, 2025|[Is Bitcoin Failing? Alex Gladstein vs. Paul Sztorc](https://www.youtube.com/watch?v=-OPZ3q_8zHg)|1h,42m,40s|Paul debates Alex Gladstein on the Lighting Network.|
 |May 27th, 2025|[Billions of Users, Total Privacy—No Bitcoin Fork Required](https://youtu.be/Z8Q764bkxSY?si=FGTIPrD-FFhxpq1I)|16m,20s|Paul presents a bold vision for Bitcoin scaling to billions without forking Bitcoin Core.|
+|May 27th, 2025|[Comparing Layer 2 Security Models for Bitcoin](https://youtu.be/8nqt5v_u4Ds?si=cn-nGI9zqeJBm85I)|25m,33s|Paul Sztorc (BIP 300), David Seroy (Alpen Labs), and Willem Schroe (Botanix Labs) compare how different Layer 2s manage trust and decentralization.|
 |April  29th, 2025|[Bitcoin L1 vs L2 Debate](https://www.youtube.com/live/n29r-eWA6Zo)|2h,23m,15s|Paul debates with Kurt Wuckert Jr on CoinGeek podcast.|
 |December 7th, 2024|[The Litecoin Forecast](https://www.youtube.com/watch?v=c_fiK-00V1M&t=3s)|3h,51m,14s|Paul appears on a Litecoin podcast to give a wide overview on his ideas.|
 |December 6th, 2024|[Bitcoin Takeover S15 E68: Paul Sztorc on CUSF](https://www.youtube.com/watch?v=p2zXzG9-abc&t=125s)|2h,10m,45s|Paul appears on BTCTKVR again, this time to discuss Core Untouched Soft Forks.|
