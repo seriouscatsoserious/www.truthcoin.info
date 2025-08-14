@@ -1,5 +1,7 @@
- 
-    Rationale re: covenants support wiki
+### Covenants Support Rationale
+
+[re: table](https://en.bitcoin.it/wiki/Covenants_support)
+
     Paul Sztorc
     12 Dec 2024
 
