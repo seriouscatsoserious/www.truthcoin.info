@@ -196,6 +196,7 @@ Here's the current list, as I see it:
 3. The Blocksize War / Mining Grift / Mining "Centralization"
 * The conventional wisdom is that [1] miners caused the blocksize war, [2] miners are untrustworthy and must be constrained, and [3] something called "mining centralization" exists, and we must work hard to prevent it.
 * All of those are false, as I've written on [here](https://www.truthcoin.info/blog/popular-mining-lies/).
+* The worst offender is the [Pie Chart Complaint](https://www.truthcoin.info/blog/popular-mining-lies/#part-4--why-fewer-pools-is-better)
 4. Bizarre Focus and Undignified Priorities
 * Back in Jan 2022, [I lamented](https://x.com/Truthcoin/status/1484999128073580548) that Adam Back [our pseudo-leader] was wasting his time, posting "price junk" instead of talking about Bitcoin's serious problems.
 * It has only gotten worse! You can use twitted advanced search: [from:adam3us price], or [from:adam3us mNAV], to see just how often [this junk](https://x.com/adam3us/status/1944185897123000637) is posted.
