@@ -32,6 +32,9 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 
 | Date | Title/Link | Length | Comments |
 |-|-|-|-|
+|October 21st, 2025|[Bitcoin's Crisis of Stagnation, Upgrades, & Control](https://www.youtube.com/watch?v=LQ9bLyf_dvE)|1h,15m,39s|Paul unpacks Bitcoin governance politics, Lightning’s shortcomings, dissenting implementations, and long-term fee/security challenges.|
+|October 10th, 2025|[Bitcoin After the Hype: A Conversation with Paul Sztorc](https://www.youtube.com/watch?v=q39uYkaojRI)|1h,14m,27s|High level discussion about Drivechain and Bitcoin.|
+|August 27th, 2025|[History of Drivechains & the Problem with Bitcoin Governance](https://www.youtube.com/watch?v=dv5KNgQgj_Q)|2h,21m,45s|Interview with Isabel Foxen Duke discussing the problems with BTC culture.|
 |July 30th, 2025|[Paul Sztorc Explains It All](https://youtu.be/PbgF35fz5I8?si=f-PfVvpDkvvjwP2o)|1h,0m,15s|Paul joins Casey Rodarmor on his Hell Money podcast to discuss economics and Bitcoin.|
 |July 8th, 2025|[Paul Sztorc on Scaling Litecoin with Drivechains](https://youtu.be/hLi0vleXnDs?si=yDSJAMWj6YnpzYFu)|3h,9m,32s|Paul discusses scaling Litecoin with Drivechains on 84 Million Podcast.|
 |June 30th, 2025|[Lightning Network Debate: Bitcoin's future or overhyped flop?](https://www.youtube.com/watch?v=PiuHjHKRUTA)|1h,9m,9s|Paul debates Lightning Network adoption and technical challenges with Harsha Goli.|
