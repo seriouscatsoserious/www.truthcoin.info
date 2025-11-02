@@ -32,7 +32,9 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 
 | Date | Title/Link | Length | Comments |
 |-|-|-|-|
+|October 22nd, 2025|[BTC Takeover: Culture Wars](https://www.youtube.com/watch?v=N0phNicf6lo)|1h,49m,13s|I catch up with Vlad.|
 |October 21st, 2025|[Bitcoin's Crisis of Stagnation, Upgrades, & Control](https://www.youtube.com/watch?v=LQ9bLyf_dvE)|1h,15m,39s|Paul unpacks Bitcoin governance politics, Lightning’s shortcomings, dissenting implementations, and long-term fee/security challenges.|
+|October 15th, 2025|[The Case Against Lightning](https://www.youtube.com/watch?v=EhJoJPf76Pw)|1h,6m,37s|I debate an entire room full of Lightning Enthusiasts, including Tadge (the creator). My 10 min talk is followed by 50 min of Q&A. Most (but not all) end up agreeing with me. [slides](https://www.truthcoin.info/presentations/tab-2025-lightning.pdf)|
 |October 10th, 2025|[Bitcoin After the Hype: A Conversation with Paul Sztorc](https://www.youtube.com/watch?v=q39uYkaojRI)|1h,14m,27s|High level discussion about Drivechain and Bitcoin.|
 |August 27th, 2025|[History of Drivechains & the Problem with Bitcoin Governance](https://www.youtube.com/watch?v=dv5KNgQgj_Q)|2h,21m,45s|Interview with Isabel Foxen Duke discussing the problems with BTC culture.|
 |July 30th, 2025|[Paul Sztorc Explains It All](https://youtu.be/PbgF35fz5I8?si=f-PfVvpDkvvjwP2o)|1h,0m,15s|Paul joins Casey Rodarmor on his Hell Money podcast to discuss economics and Bitcoin.|
