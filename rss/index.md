@@ -33,6 +33,7 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 | Date | Title/Link | Length | Comments |
 |-|-|-|-|
 |October 22nd, 2025|[BTC Takeover: Culture Wars](https://www.youtube.com/watch?v=N0phNicf6lo)|1h,49m,13s|I catch up with Vlad.|
+|October 21st, 2025|[For bitcoin mining to survive, we need to rethink L2s](https://blockspace.media/insight/for-bitcoin-mining-to-survive-we-need-to-rethink-l2s/)|6m,40s|My op-ed in Blockspace Media, about "The Age of Transaction Fees".|
 |October 21st, 2025|[Bitcoin's Crisis of Stagnation, Upgrades, & Control](https://www.youtube.com/watch?v=LQ9bLyf_dvE)|1h,15m,39s|Paul unpacks Bitcoin governance politics, Lightning’s shortcomings, dissenting implementations, and long-term fee/security challenges.|
 |October 15th, 2025|[The Case Against Lightning](https://www.youtube.com/watch?v=EhJoJPf76Pw)|1h,6m,37s|I debate an entire room full of Lightning Enthusiasts, including Tadge (the creator). My 10 min talk is followed by 50 min of Q&A. Most (but not all) end up agreeing with me. [slides](https://www.truthcoin.info/presentations/tab-2025-lightning.pdf)|
 |October 10th, 2025|[Bitcoin After the Hype: A Conversation with Paul Sztorc](https://www.youtube.com/watch?v=q39uYkaojRI)|1h,14m,27s|High level discussion about Drivechain and Bitcoin.|
