@@ -7,7 +7,7 @@ title: Paul's Quick "Bitcoin CV"
 
 * Ran a [weekly summer hackathon](https://www.drivechain.info/blog/perf-contest/) -- ultimately reaching [303s / 10x 960MB blocks] -- enough for Bitcoin to process [all the txns on Earth](https://www.truthcoin.info/blog/all-world-txns/).
 * L2L releases a 2nd testnet -- this one a Core-clone (full 920k+ blocks, and full 800 GB txn history).
-* Accepted an [invitation](https://github.com/TABConf/7.tabconf.com/issues/95) to debate a whole room full of lightning devs at once. (See [the results](/link-forthcoming) for yourself.)
+* Accepted an [invitation](https://github.com/TABConf/7.tabconf.com/issues/95) to debate a whole room full of lightning devs at once. (See [the results](https://www.youtube.com/watch?v=EhJoJPf76Pw) for yourself.)
 
 
 ### 2024
