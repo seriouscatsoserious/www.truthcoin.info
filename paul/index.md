@@ -29,7 +29,6 @@ title: Paul's Quick "Bitcoin CV"
 * Raised $3 M to create [LayerTwo Labs](https://layertwolabs.com/) -- "Making every transaction a Bitcoin txn".
 
 
-
 ### 2021
 
 * Published three essays on the future of Bitcoin -- [scaling](https://www.truthcoin.info/blog/thunder/), [privacy](https://www.truthcoin.info/blog/zside-meltcast/), and [fundamental value](https://www.truthcoin.info/blog/bitnames/).
@@ -37,10 +36,9 @@ title: Paul's Quick "Bitcoin CV"
 * (All of these essays are way ahead of their time.)
 
 
-
 ### 2020
 
-* Organized & managed a special contest, to create a [zk-snark drivechain](https://www.drivechain.info/blog/spring-contest/) - (which was successful).
+* Organized & managed a special contest, to create a [zk-snark drivechain](https://www.drivechain.info/blog/spring-contest/).
 
 
 ### 2019
@@ -66,12 +64,11 @@ title: Paul's Quick "Bitcoin CV"
 
 ### 2016
 
+Two mammoth presentations that --to this day-- are ahead of their time:
 
-Two mammoth presentations that --to this day-- are ahead of their time.
-
-
-
-* Oct ?9, 2016 -- Presented at Scaling III (Milan) about *shrinking the blocksize* and getting greater scale.
+* May -- ["Sidechain Privatization"](https://www.youtube.com/watch?v=xGu0o8HH10U&list=PLw8-6ARlyVciMH79ZyLOpImsMug3LgNc4&index=1)
+* Sept -- ["Sidechains: The Case Against Worrying"](https://www.youtube.com/watch?v=0goYH2sDw0w&list=PLw8-6ARlyVciNjgS_NFhAu-qt7HPf_dtg&index=1)
+* Oct 8 -- Scaling III [presentation](https://www.youtube.com/watch?v=Gzg_u9gHc5Q&t=6575s) -- about *shrinking the blocksize* and getting greater scale.
 
 
 ### 2015
@@ -98,9 +95,9 @@ Two mammoth presentations that --to this day-- are ahead of their time.
 
 ### Pre-Bitcoin
 
-* 2007-2010 - Obtained 2x BA degrees in 3 years.
-* 2010-2012 - Obtained 2x Masters degrees in 2 years. Obtained 99th percentile GMAT score.
 * 2012-2014 - Statistician at Yale Econ Department. Worked closely with Bill Nordhaus, who later won the Nobel Prize.
+* 2010-2012 - Obtained 2x Masters degrees in 2 years. GMAT (99th percentile).
+* 2007-2010 - Obtained 2x BA degrees in 3 years. SAT (98th percentile).
 
 ### Further Reading
 
