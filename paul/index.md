@@ -68,7 +68,7 @@ title: Paul's Quick "Bitcoin CV"
 * * May -- ["Sidechain Privatization"](https://www.youtube.com/watch?v=xGu0o8HH10U&list=PLw8-6ARlyVciMH79ZyLOpImsMug3LgNc4&index=1)
 * * Sept -- ["Sidechains: The Case Against Worrying"](https://www.youtube.com/watch?v=0goYH2sDw0w&list=PLw8-6ARlyVciNjgS_NFhAu-qt7HPf_dtg&index=1)
 * Oct 8 -- Scaling III [presentation](https://www.youtube.com/watch?v=Gzg_u9gHc5Q&t=6575s) -- about *shrinking the blocksize* and getting greater scale.
-* Yes, I was always [a smallblocker](https://x.com/Truthcoin/status/1988021934802514362).
+* Yes, I was always [a smallblocker](https://x.com/Truthcoin/status/1988023449504321585).
 
 
 ### 2015
