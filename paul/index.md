@@ -56,7 +56,7 @@ title: Paul's Quick "Bitcoin CV"
 
 ### 2017
 
-* Appeared on [the Developer Table](https://en.bitcoin.it/wiki/Segwit_support) to reject SegWit2x -- (yes, I was indeed a SmallBlocker).
+* Appeared on [the Developer Table](https://en.bitcoin.it/wiki/Segwit_support) to reject SegWit2x.
 * On the Program Committee for Scaling IV (Stanford).
 * Still getting [job offers from Blockstream](https://x.com/Truthcoin/status/1267432543843946496).
 * Published two BIPs: [300](https://github.com/bitcoin/bips/blob/master/bip-0300.mediawiki) and [301](https://github.com/bitcoin/bips/blob/master/bip-0301.mediawiki).
@@ -64,11 +64,11 @@ title: Paul's Quick "Bitcoin CV"
 
 ### 2016
 
-Two mammoth presentations that --to this day-- are ahead of their time:
-
-* May -- ["Sidechain Privatization"](https://www.youtube.com/watch?v=xGu0o8HH10U&list=PLw8-6ARlyVciMH79ZyLOpImsMug3LgNc4&index=1)
-* Sept -- ["Sidechains: The Case Against Worrying"](https://www.youtube.com/watch?v=0goYH2sDw0w&list=PLw8-6ARlyVciNjgS_NFhAu-qt7HPf_dtg&index=1)
+* Two mammoth presentations that --to this day-- are ahead of their time:
+* * May -- ["Sidechain Privatization"](https://www.youtube.com/watch?v=xGu0o8HH10U&list=PLw8-6ARlyVciMH79ZyLOpImsMug3LgNc4&index=1)
+* * Sept -- ["Sidechains: The Case Against Worrying"](https://www.youtube.com/watch?v=0goYH2sDw0w&list=PLw8-6ARlyVciNjgS_NFhAu-qt7HPf_dtg&index=1)
 * Oct 8 -- Scaling III [presentation](https://www.youtube.com/watch?v=Gzg_u9gHc5Q&t=6575s) -- about *shrinking the blocksize* and getting greater scale.
+* Yes, I was always [a smallblocker](https://x.com/Truthcoin/status/1988021934802514362).
 
 
 ### 2015
