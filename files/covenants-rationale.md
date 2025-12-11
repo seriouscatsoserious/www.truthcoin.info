@@ -47,7 +47,7 @@ The details are not important -- what is important, is: no one wants to "take re
 
 In a different sense, the lack of responsibility is more similar to a group of adults who refuse to "take responsibility" for a crying infant, who has been left out in the cold to die. In this sense it is shameful and disgusting. "After all", they say, "Craig is also out there in the cold, he might get us". In other words: everyone is a coward -- vile and corrupt, and therefore unwilling to do the right thing.
 
-Ava Chow (for example), has stated explicitly, that it is the policy of Bitcoin Core, to "never merge anything if it is even slightly controversial on Twitter". This strategy has an obvious defect: it is quite easy to generate fake controversy on Twitter. Ava has further stated (in public on twitter) that Craig's lawsuits are one reason they avoid touching soft forks. This has the same problem: lawyers may sue, **until** a soft fork **is** merged. Really it's the same thing: either you do what's best for Bitcoin (the virtuous option), or you let the terrorists win (the cowardly option we are now taking).
+Ava Chow (for example), has stated explicitly[^1], that it is the policy of Bitcoin Core, to "never merge anything if it is even slightly controversial on Twitter". This strategy has an obvious defect: it is quite easy to generate fake controversy on Twitter. Ava has further stated (in public on twitter) that Craig's lawsuits are one reason they avoid touching soft forks. This has the same problem: lawyers may sue, **until** a soft fork **is** merged. Really it's the same thing: either you do what's best for Bitcoin (the virtuous option), or you let the terrorists win (the cowardly option we are now taking).
 
 Ava went on to say: "we will not let anyone know, that their idea has been rejected -- instead, we will just not talk about it". They are true to their word. APO (at the far right of the table), has the bizarre property that it was coded up many years ago, by beloved developers, to help upgrade the beloved Lightning Network, and yet its authors refuse to discuss activation -- so it just doesn't activate. The same happened with Taproot -- the developers who created it, simply refused to discuss it. (Eventually it was activated by Speedy Trial -- Core having nothing to do with it.) Countless soft forks, have simply been ignored out of existence.
 
@@ -171,3 +171,10 @@ A second reason to opposite APO, is ironically because of how old it is. This ma
 ### CCV
 
 I've never heard of this before. As you might guess, I didn't particularly feel compelled to look into it.
+
+
+-----
+
+#### Footnotes
+
+[^1]: **Update:** [Jonas Nick](https://x.com/n1ckler) of [Blockstream](https://blog.blockstream.com/blockstream-research-the-focus/) threw a conniption over this section, [tweeting](https://x.com/n1ckler/status/1867580098443878742): "there is no source...you're just casually deceiving and misquoting Ava", and accusing me of a "caricatured view of Bitcoin Core" . I [gave sources](https://x.com/Truthcoin/status/1867584162154119446), but Jonas (for some reason) is convinced I am lying (!) and *doubled down* [in June](https://x.com/n1ckler/status/1937056706095169985?s=20) -- accusing me of *fabricating* the quote. (If you can believe that.) Unfortunately for Jonas, [enormous](https://x.com/achow101/status/1735310357386731533) [evidence](https://x.com/achow101/status/1742321522235367520) [abounds](https://x.com/Truthcoin/status/1750247064011772031) of **similar public quotes** (in addition to the firsthand evidence I'd already linked). So -- that **IS** the official Core policy -- and Jonas **IS** an idiot for *not knowing what the policy is* -- and an even *BIGGER* idiot, to claim I am lying about any of it! So -- that's Jonas Nick for you.
