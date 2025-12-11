@@ -50,7 +50,7 @@ Here's the current list, as I see it:
 * Originally, Bitcoin took a healthier attitude, to new versions of the software. It went like this: "Bitcoin is open source, so we will take all the best ideas, whenever they are invented".
 * Today, however, even the soft fork (ie, the optional upgrade), is today considered too controversial. Instead, new pull requests must obtain near-universal consensus -- from everyone.
 * Ava Chow, a prominent core dev, [told me](https://www.truthcoin.info/files/covenants-rationale/) that Core will ignore all controversial ideas. They will not even *comment*, to say "this was a controversial idea, so we are ignoring it". They will just quietly hope that the issue goes away.
-* Nick Jonas, a researcher at Blockstream, was surprised to hear this, and [confidently accused me](https://x.com/n1ckler/status/1867580098443878742) of lying about it. But the bigger news, is that had no idea that this was the official policy.
+* Jonas Nick, a researcher at Blockstream, was surprised to hear this -- he even [confidently accused me](https://x.com/n1ckler/status/1867580098443878742) of lying about it. I certainly was not lying (see [footnote 1](https://www.truthcoin.info/files/covenants-rationale/#fn:1)). But the bigger news, is that Jonas had no idea that this was the official policy. (That's how ahead-of-the-curve I am!)
 * This state of affairs is very easy to manipulate -- it is easy to manufacture controversy. And if there are many veto points, nothing will ever get done. People will hold the process hostage, for concessions.
 6. Neglect of Libbitcoin
 * Libbitcoin is [vastly superior](https://x.com/evoskuil/status/1928654425213604216) to Bitcoin Core, on the main relevant dimension (performance).
