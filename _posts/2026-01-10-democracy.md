@@ -1,5 +1,5 @@
 ---
-title: Democracy's Missing Pieces -- One Page
+title: Democracy's Missing Pieces -- Two Pages
 show_author: true
 comments: true
 date: 2026-01-10 01:00:00
@@ -26,7 +26,7 @@ But, the **missing pieces**, are:
 3. **Party bankruptcy**. Any party which loses **three consecutive elections** should be **disbanded**. Its leaders should all be fired; and replaced with ordinary citizens, drafted at random. This keeps both parties focused on **winning elections** -- and prevents collusion.
 4. **Strong parties** -- each party should have exactly one leader. This leader **takes responsibility** for their party, and for choosing **a candidate** for their side of the ballot. After losing an election, this leader must be fired. The new leader serves as **leader of the opposition** (on behalf of the whole country). 
 5. Party Rule -– the winning party must be **allowed to implement their agenda**. This gives leaders enough rope to hang themselves. "Separation of powers" is an inaccurate term -- what's really going on is "enforcing the rules".
-6. Conditional **Prediction Markets** – to easily foresee (and prove) how each candidate would do, if elected – before election day [and before nomination day].
+
 
 ### Learn More
 
