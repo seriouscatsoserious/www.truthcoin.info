@@ -23,8 +23,8 @@ But, the **missing pieces**, are:
 
 1. A strict two-party system. We must **ban third parties**. This is not to restrict choice, but instead to maximize the strength of **the opposition party** (and maximize the threat it poses to **the ruling party**).
 2. Pure **majority rule**. If voter support falls below 50% (in an election), then your party is **fired**. This directly connects the government to their voters. We must reject "proportional representation", "electoral college", "ranked choice voting", etc.
-3. **Party bankruptcy**. Any party which loses **three consecutive elections** should be **disbanded**. Its leaders should all be fired; and replaced with ordinary citizens, drafted at random. This keeps both parties focused on **winning elections** -- and prevents collusion.
-4. **Strong parties** -- each party should have exactly one leader. This leader **takes responsibility** for their party, and for choosing **a candidate** for their side of the ballot. After losing an election, this leader must be fired. The new leader serves as **leader of the opposition** (on behalf of the whole country). 
+3. **Strong parties** -- each party always has **one leader** at each and every moment. This leader **takes responsibility** for their party's mistakes; and they unilaterally choose **the nominee** (who runs for office). Should this nominee lose the general election, the party leader immediately resigns (and is replaced). The replacement serves as **leader of the opposition**, criticizing the ruling party on behalf of all citizens.
+4. **Party bankruptcy**. Any party which loses **three consecutive elections** should be **disbanded**. Its leaders should all be fired; and replaced with ordinary citizens, drafted at random. This keeps both parties focused on **winning elections** -- and prevents collusion.
 5. Party Rule -– the winning party must be **allowed to implement their agenda**. This gives leaders enough rope to hang themselves. "Separation of powers" is an inaccurate term -- what's really going on is "enforcing the rules".
 
 
