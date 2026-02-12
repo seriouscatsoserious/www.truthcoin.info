@@ -15,6 +15,9 @@ Bio:
 [Short]
 Creator of BIPs 300/301. Author of "Nothing is Cheaper than Proof of Work" and "Security Budget in the Long Run" (on truthcoin.info). Advocate for sidechains and prediction markets -- the two most neglected ideas of our time. Former statistician and academic.
 
+[Medium]
+Creator: BIPs 300/301, "Drivechain", Blind Merged Mining, "BitWindow" (Wallet/GUI), CUSF (the "Core Untouched Soft Fork"), "Truthcoin" (decentralized prediction markets), and many L2 chains. Author of "Nothing is Cheaper than Proof of Work" and "Security Budget in the Long Run" (on truthcoin.info). Advocate for sidechains and prediction markets -- the two most neglected ideas of our time. Former statistician and academic.
+
 
 Headshots:
 
