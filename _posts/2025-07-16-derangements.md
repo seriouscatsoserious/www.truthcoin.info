@@ -27,6 +27,7 @@ Here's the current list, as I see it:
 * Lightning repels "serious people" -- ie, those who want to help make Bitcoin into a success. When they point out problems with LN, they are [treated badly](https://x.com/Truthcoin/status/1935770730979115250).
 * Instead, if you build a fraud custodial app (stealing people's Bitcoin), and name it "lightning", you are showered with praise and attention. "Custodial" is a rejection of everything Bitcoin stands for -- we are literally telling people, *NOT* to use Bitcoin. A horrible development.
 * In practice, lightning requires either: [1] the evil custodians, or [2] ongoing full time R&D software development work. This is the very definition of "dependence" (and/or "centralization" if you prefer that word).
+* In Oct 2025 I [accepted](https://github.com/TABConf/7.tabconf.com/issues/95) an invitation to [debate a whole room of Lightning Devs](https://www.youtube.com/watch?v=EhJoJPf76Pw) at once. Most of them ended up agreeing with me. Tadge Dryja -- the creator of lightning -- had an uninterrupted 10 minutes on stage with me at the end. [Watch it](https://www.youtube.com/watch?v=EhJoJPf76Pw) for yourself.
 * Every minute, every dollar we spend on Lightning, is a waste -- and worse, it digs us further and further into a hole from which we cannot easily escape.
 2. The "Non-Mined L2s"
 * As [I presented at OP NEXT 2024](https://www.youtube.com/watch?v=ImUCulfr1cE), the majority of L2 focus is on the wrong type of L2: the non-mined L2. [This includes LN, ARK, Rollups, Fedimint, etc].
