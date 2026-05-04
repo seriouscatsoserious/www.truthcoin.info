@@ -32,6 +32,14 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 
 | Date | Title/Link | Length | Comments |
 |-|-|-|-|
+|May 2nd, 2026|[A New Bitcoin Fork is Coming | Everything You Need to Know About the eCash Hard Fork](https://www.youtube.com/watch?v=C0nxRCiegXs)|43m,55s|Paul joins Blockspace Live to explain and defend the eCash hard fork.|
+|April 30th, 2026|[The Bitcoin Fork that Changes Everything | Interview with Paul Sztorc](https://www.youtube.com/watch?v=QlTENvWsxIQ)|1h,01m,44s|Paul joins The Crypto Vigilante to discuss the eCash fork, Drivechains, sidechains, and scaling Bitcoin.|
+|April 24th, 2026|[S17 E21: Paul Sztorc Launches Drivechains on the eCash Bitcoin Hard Fork](https://www.youtube.com/watch?v=1DXWOMsbu-Q)|2h,08m,33s|Paul talks with Vlad Costea about launching eCash, Drivechains, the Satoshi Half Air Drop, and Bitcoin governance gridlock.|
+|April 24th, 2026|[A New Bitcoin Fork?! eCash Launches! Digital Cash Rundown 225 with Paul Sztorc](https://www.youtube.com/watch?v=99KHVbwYOrI)|2h,23m,26s|Paul joins Digital Cash Rundown to discuss the eCash launch and Bitcoin hard fork.|
+|April 24th, 2026|[The Man Who Spent A Decade Fixing Bitcoin Just Quit](https://www.youtube.com/watch?v=SpsrmWAXPws)|44m,35s|Paul talks with Pete Rizzo about eCash, Drivechains, Lightning, and the Bitcoin-holder airdrop.|
+|April 24th, 2026|[Drivechains Author to Hardfork Bitcoin I with Paul Sztorc](https://www.youtube.com/watch?v=VLYbluQNFBQ)|1h,27m,53s|Paul discusses his eCash hard fork plans, Drivechains, Bitcoin governance, and the stalled soft fork process.|
+|April 24th, 2026|[Paul Sztorc - eCash - BTC Fork](https://www.youtube.com/watch?v=-fx_esffAyc)|1h,52m,07s|Paul appears on Declare Your Independence with Ernest Hancock to discuss eCash and a BTC fork.|
+|January 27th, 2026|[S17 E5: Paul Sztorc on Bitcoin Derangements](https://www.youtube.com/watch?v=GMX_Agbe-9w)|4h,01m,07s|Paul talks with Vlad Costea about Bitcoin derangements, maximalism, soft fork gridlock, Lightning, and Drivechain.|
 |October 22nd, 2025|[BTC Takeover: Culture Wars](https://www.youtube.com/watch?v=N0phNicf6lo)|1h,49m,13s|I catch up with Vlad.|
 |October 21st, 2025|[For bitcoin mining to survive, we need to rethink L2s](https://blockspace.media/insight/for-bitcoin-mining-to-survive-we-need-to-rethink-l2s/)|6m,40s|My op-ed in Blockspace Media, about "The Age of Transaction Fees".|
 |October 21st, 2025|[Bitcoin's Crisis of Stagnation, Upgrades, & Control](https://www.youtube.com/watch?v=LQ9bLyf_dvE)|1h,15m,39s|Paul unpacks Bitcoin governance politics, Lightning’s shortcomings, dissenting implementations, and long-term fee/security challenges.|
