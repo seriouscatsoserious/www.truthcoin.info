@@ -21,7 +21,7 @@ title: Random Files
 * 06.21.2019 - ["Rights" -- Appendix to 'Consent of the Governed'](/files/cotg-appendix/)
 * 12.11.2019 - [Breaking CashFusion With Pen & Paper (But Only Sometimes)](/files/cash-fusion-rightmost-digit/)
 * 12.12.2024 - [Covenants Support Rationale](/files/covenants-rationale/)
-
+* 07.07.2026 - [Free Samourai: Plan + $30k Prize](/files/free-samourai/)
 
 <!--  
 Month-Day-Year
