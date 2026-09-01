@@ -32,6 +32,7 @@ howtogeek.com/318401/how-to-find-or-create-an-rss-feed-for-any-website/
 
 | Date | Title/Link | Length | Comments |
 |-|-|-|-|
+|August 12th, 2026|[S17 E37: Paul Sztorc on Launching eCash (ECX)](https://www.youtube.com/watch?v=ls5HIdPUuAk)|28m,28s|Paul returns to Bitcoin Takeover to discuss the three-stage eCash launch, free coin claiming, and the expanded set of Drivechains.|
 |August 7th, 2026|[Expecting Hardforks \| PAUL SZTORC](https://www.youtube.com/watch?v=XuN9GrqS6NI)|1h,32m,09s|Paul returns to Bitcoin Rails with Isabel Foxen Duke to discuss eCash, Drivechains, BIP 110, and Bitcoin governance.|
 |August 4th, 2026|[Хардфорк Биткоина в августе: Пол Шторц объясняет eCash \| AMA](https://www.youtube.com/watch?v=uM6n-eHS6LM)|1h,46m,25s|Paul joins Incrypted for a Russian-language AMA about the eCash hard fork, Satoshi's coins, coin splitting, and audience questions.|
 |August 1st, 2026|[Stuff We're Working On at bitcoin++ Consensus Edition](https://www.youtube.com/watch?v=yu-Oskxucpw&t=9805s)|30m,52s|Paul surveys LayerTwo Labs' current work on Drivechain sidechains, CUSF, BitWindow, SimplePool, and the upcoming eCash hard fork.|
